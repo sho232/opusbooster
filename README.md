@@ -67,3 +67,7 @@
 {% content-ref url="afirieitonitsuite/" %}
 [afirieitonitsuite](afirieitonitsuite/)
 {% endcontent-ref %}
+
+This repository hosts free documentation for OpusBooster.\
+It is shared for educational and community purposes.\
+Licensed under CC‑BY‑4.0.
