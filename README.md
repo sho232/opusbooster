@@ -68,6 +68,25 @@
 [afirieitonitsuite](afirieitonitsuite/)
 {% endcontent-ref %}
 
-This repository hosts free documentation for OpusBooster.\
-It is shared for educational and community purposes.\
-Licensed under CC‑BY‑4.0.
+# OpusBooster Docs
+
+This repository hosts free documentation for **OpusBooster**, an AI-powered marketing tool that helps creators and entrepreneurs automate content generation, funnel design, and customer engagement.
+
+The documentation is intended to support the user community and provide educational materials on how to use OpusBooster's various features effectively.
+
+## Key Topics
+
+- Getting Started with OpusBooster
+- Using the AI Funnel Planner
+- Social Media Post Automation
+- Visual Editor Usage
+- Integration with Chatbots and Email Tools
+
+## License
+
+This documentation is shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+## Contribution
+
+We welcome contributions! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
