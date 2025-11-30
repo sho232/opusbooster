@@ -23,7 +23,7 @@ icon: clock
 
 以下では、時間指定ドリップコンテンツの設定方法を簡単な例で説明します。当社の動画「**Video2**」を例に、**メンバーが登録から1日経過後にのみ**この特定のページを閲覧できるようにアクセス権を設定します。
 
-![](<../.gitbook/assets/image (8)>)
+![](<../.gitbook/assets/image (51)>)
 
 設定すると、メンバーがこのコンテンツにアクセスしようとしても、指定された公開時間に達するまではロックされたままになります。
 
@@ -47,7 +47,7 @@ icon: clock
 
 以下は、ドリップ設定を使用して次のコンテンツを待っているときにメンバーが目にする例です。
 
-<figure><img src="../.gitbook/assets/image (9)" alt="コンテンツドリップタイマーページ"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52)" alt="コンテンツドリップタイマーページ"><figcaption></figcaption></figure>
 
 #### **完了ベースの解除**
 
@@ -71,7 +71,7 @@ Completion-Based Release（コンテンツ開放条件機能）は、\
 設定するときは、この機能を使いたいページやグループの設定画面を開きます。\
 例えば今回の例では、「Video 1」を完了したメンバーだけが「Video 2」を見られるようにしておくことで、メンバーが決められた順番で進めるようになります。
 
-![](<../.gitbook/assets/image (10)>)
+![](<../.gitbook/assets/image (53)>)
 
 {% hint style="info" %}
 注：この設定を正しく機能させるためには、“一つ前のコンテンツ”で『コンテンツ完了を追跡する（Track Content Completion）』を有効にしておく必要があります。今回の例では、「Video 2」へのアクセスを制限するために、「Video 1」のページ設定で『Track Content Completion』をオンにしておきます。こうすることで、「Video 1」を完了したメンバーだけが「Video 2」に進めるようになります。

@@ -101,6 +101,14 @@
   * [分析とエンゲージメント](community/skuru/toengjimento.md)
 * [アクセスレベル](community/akusesureberu.md)
 * [コンテンツの利用可能性](community/kontentsuno.md)
+* [コミュニティウィジェット](community/komyunitiwijetto/README.md)
+  * [サークル](community/komyunitiwijetto/skuru.md)
+  * [サークル](community/komyunitiwijetto/skuru-1.md)
+  * [コメントエリア](community/komyunitiwijetto/komentoeria.md)
+  * [ディスカッション](community/komyunitiwijetto/disukasshon.md)
+  * [レビュー](community/komyunitiwijetto/reby.md)
+  * [ウォール/フォーラム](community/komyunitiwijetto/wruframu.md)
+* [コミュニティ通知](community/komyuniti.md)
 
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
