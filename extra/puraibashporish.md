@@ -150,8 +150,7 @@ OpusBooster
 
 天野 翔
 
-E-mail : support@opusbooster.com\
-
+E-mail : support@opusbooster.com<br>
 
 **【ブルガリア共和国における個人情報保護に関する制度】**
 

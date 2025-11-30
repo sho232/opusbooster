@@ -86,6 +86,18 @@
   * [サービス機能を使用した予約の設定](platform/yu-yue/sbisuwoshitano.md)
 * [MetaコンバージョンAPI](platform/metakonbjonapi.md)
 
+## コミュニティ <a href="#community" id="community"></a>
+
+* [コミュニティの作成](community/komyunitino/README.md)
+  * [コミュニティ設定](community/komyunitino/komyuniti.md)
+  * [コミュニティ・ダッシュボード](community/komyunitino/komyunitidasshubdo.md)
+  * [コミュニティ・モデレーション](community/komyunitino/komyunitimodershon.md)
+  * [コミュニティロールの割り当て](community/komyunitino/komyunitirrunorite.md)
+* [サークル](community/skuru/README.md)
+  * [サークル設定](community/skuru/skuru.md)
+  * [サークル設定とスタイリング](community/skuru/skurutosutairingu.md)
+  * [サークルの編集](community/skuru/skuruno.md)
+
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
 * [メール](internal-integrations/email/README.md)
@@ -121,14 +133,3 @@
   * [📹 OpusBoosterデモ動画](afirieitonitsuite/opusboosterdemo.md)
   * [❓ アフィリエイトQ\&A](afirieitonitsuite/afirieitoqa.md)
   * [📑 アフィリエイト規約](afirieitonitsuite/afirieito.md)
-
-## コミュニティ <a href="#community" id="community"></a>
-
-* [コミュニティの作成](community/komyunitino/README.md)
-  * [コミュニティ設定](community/komyunitino/komyuniti.md)
-  * [コミュニティ・ダッシュボード](community/komyunitino/komyunitidasshubdo.md)
-  * [コミュニティ・モデレーション](community/komyunitino/komyunitimodershon.md)
-  * [コミュニティロールの割り当て](community/komyunitino/komyunitirrunorite.md)
-* [サークル](community/skuru/README.md)
-  * [サークル設定](community/skuru/skuru.md)
-  * [サークル設定とスタイリング](community/skuru/skurutosutairingu.md)

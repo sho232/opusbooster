@@ -1,5 +1,7 @@
 # 👏 ようこそ
 
+## 👏 ようこそ
+
 {% embed url="https://vimeo.com/849903350/9f47efb1a9" %}
 
 {% hint style="info" %}
@@ -8,7 +10,7 @@
 [サポート](extra/getting-support.md)
 {% endhint %}
 
-### すぐに使えるガイド
+#### すぐに使えるガイド
 
 以下のガイドに沿って、ビジネスの仕組み化をはじめましょう！
 
@@ -68,25 +70,24 @@
 [afirieitonitsuite](afirieitonitsuite/)
 {% endcontent-ref %}
 
-# OpusBooster Docs
+## OpusBooster Docs
 
 This repository hosts free documentation for **OpusBooster**, an AI-powered marketing tool that helps creators and entrepreneurs automate content generation, funnel design, and customer engagement.
 
 The documentation is intended to support the user community and provide educational materials on how to use OpusBooster's various features effectively.
 
-## Key Topics
+### Key Topics
 
-- Getting Started with OpusBooster
-- Using the AI Funnel Planner
-- Social Media Post Automation
-- Visual Editor Usage
-- Integration with Chatbots and Email Tools
+* Getting Started with OpusBooster
+* Using the AI Funnel Planner
+* Social Media Post Automation
+* Visual Editor Usage
+* Integration with Chatbots and Email Tools
 
-## License
+### License
 
 This documentation is shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
-## Contribution
+### Contribution
 
-We welcome contributions! Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
+We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
