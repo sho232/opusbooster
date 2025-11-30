@@ -97,8 +97,8 @@
   * [サークル設定](community/skuru/skuru.md)
   * [サークル設定とスタイリング](community/skuru/skurutosutairingu.md)
   * [サークルの編集](community/skuru/skuruno.md)
-  * [新しいページ/グループを追加](community/skuru/shiipjigurpuwo.md)
-  * [新しいページ/グループを追加する](community/skuru/shiipjigurpuwosuru.md)
+  * [新しいページ/グループの追加](community/skuru/shiipjigurpuno.md)
+  * [分析とエンゲージメント |    ](community/skuru/toengjimento.md)
 
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
