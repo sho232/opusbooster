@@ -112,12 +112,19 @@
 
 ## ブログ <a href="#blog" id="blog"></a>
 
-* [ブログを始める](blog/buroguwomeru.md)
-* [初期設定と基本手順](blog/to/README.md)
-  * [ブログのヘッダー／サイドバー設定](blog/to/burogunoheddsaidob.md)
-  * [ブログ設定](blog/to/burogu.md)
-  * [記事の基本](blog/to/no.md)
-  * [記事の内容](blog/to/no-1.md)
+* [ブログを始める](blog/starting-a-blog.md)
+* [初期設定と基本手順](blog/getting-started/README.md)
+  * [ブログのヘッダー／サイドバー設定](blog/getting-started/blog-header-and-sidebar-settings.md)
+  * [ブログ設定](blog/getting-started/blog-settings.md)
+  * [記事の基本](blog/getting-started/article-basics.md)
+  * [記事の内容](blog/getting-started/article-content.md)
+* [記事設定](blog/article-settings/README.md)
+  * [ブログ記事のタグ](blog/article-settings/blog-article-tags.md)
+  * [ブログ記事のカテゴリー](blog/article-settings/blog-article-categories.md)
+  * [ブログ記事のURL](blog/article-settings/blog-article-url.md)
+  * [ブログ記事の投稿者名](blog/article-settings/blog-article-author.md)
+  * [ブログ記事の公開日](blog/article-settings/blog-article-post-date.md)
+  * [ブログ記事のコメント機能](blog/article-settings/blog-article-comments.md)
 
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
