@@ -126,6 +126,10 @@
   * [ブログ記事の公開日](blog/article-settings/blog-article-post-date.md)
   * [ブログ記事のコメント機能](blog/article-settings/blog-article-comments.md)
 
+## ビデオホスティング <a href="#video" id="video"></a>
+
+* [ビデオマネージャー](video/video-manager.md)
+
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
 * [メール](internal-integrations/email/README.md)
