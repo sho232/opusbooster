@@ -18,7 +18,7 @@ icon: chart-tree-map
 
 親密なクローズドコミュニティを作りたいときも、誰でも参加できるオープンなディスカッションを運営したいときも、Walls & Forums を使えば、メンバーとのやりとりを手間なく続けることができます。しかも、従来のSNSのような制約に縛られず、コンテンツやコミュニケーションのルールをあなた自身でしっかりコントロールできます。
 
-![](<../../.gitbook/assets/image (11) (1)>)
+![](<../../.gitbook/assets/image (11) (1) (1)>)
 
 ***
 
@@ -33,7 +33,7 @@ icon: chart-tree-map
 
 この柔軟性によって、シンプルなタイムライン風の投稿スタイルにもできるし、複数のウォールに分かれた整理されたディスカッション形式にもできるなど、あなたの理想に合わせて「参加しやすい場」の形を自由にデザインできます。
 
-![](<../../.gitbook/assets/image (12)>)
+![](<../../.gitbook/assets/image (12) (1)>)
 
 ***
 
@@ -62,15 +62,15 @@ icon: chart-tree-map
 
 ### フル投稿表示
 
-![](<../../.gitbook/assets/image (11) (1)>)
+![](<../../.gitbook/assets/image (11) (1) (1)>)
 
 ### コンパクト表示
 
-![](<../../.gitbook/assets/image (13)>)
+![](<../../.gitbook/assets/image (13) (1)>)
 
 コンパクト表示を選んでいる場合、投稿に参加したいメンバーは、右側にあるチャットアイコンをクリックするだけで、その投稿の内容を開いて見ることができます。
 
-![](<../../.gitbook/assets/image (14)>)
+![](<../../.gitbook/assets/image (14) (1)>)
 
 ***
 
@@ -97,7 +97,7 @@ icon: chart-tree-map
 {% endstep %}
 {% endstepper %}
 
-![](<../../.gitbook/assets/image (15)>)
+![](<../../.gitbook/assets/image (15) (1)>)
 
 もしポップアップを開く際にコメントを表示したくない場合は、投稿の表示設定内で「コメントを折りたたむ」オプションを選択してください。有効にすると、閲覧者はサイドバー内または投稿の下でコメントを展開できます。これにより投稿インターフェースはすっきりと整理されます。
 
@@ -117,7 +117,7 @@ icon: chart-tree-map
 [komyunitirrunorite.md](../komyunitino/komyunitirrunorite.md)
 {% endcontent-ref %}
 
-![](<../../.gitbook/assets/image (16)>)
+![](<../../.gitbook/assets/image (16) (1)>)
 
 ***
 
@@ -148,7 +148,7 @@ icon: chart-tree-map
 
 この機能は、体験をスリムに保ちながら柔軟なエンゲージメントを可能にします。
 
-![](<../../.gitbook/assets/image (17)>)
+![](<../../.gitbook/assets/image (17) (1)>)
 
 ### コメントの承認手順
 

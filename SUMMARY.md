@@ -130,6 +130,7 @@
 
 * [はじめる](video/getting-started/README.md)
   * [ビデオマネージャー](video/getting-started/video-manager.md)
+  * [単一ビデオ](video/getting-started/single-video.md)
 
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
