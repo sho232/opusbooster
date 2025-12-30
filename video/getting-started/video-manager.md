@@ -17,7 +17,7 @@
 2. 上部にある「ビデオ」を選択
 3. ポップアップが開いたら、目的に応じて操作します
 
-![](../.gitbook/assets/videomanager.png)
+![](../../.gitbook/assets/videomanager.png)
 
 ポップアップが表示されると、ビデオの整理と管理に関していくつかのオプションが利用できます：
 
@@ -25,7 +25,7 @@
 * **フォルダを作成** – カスタムフォルダにグループ化してビデオを整理します。
 * **既存ビデオを編集** – 以前アップロードしたコンテンツの設定や表示設定を変更します。
 
-![](../.gitbook/assets/videomanagerpopup.png)
+![](../../.gitbook/assets/videomanagerpopup.png)
 
 {% hint style="success" %}
 **便利な整理のコツ（コースやプレイリストを作る場合）**\
@@ -37,13 +37,13 @@
 ・拡張しやすい：コンテンツが増えても構造が崩れにくいです
 {% endhint %}
 
-例：作成した「My Videos」フォルダを開き、表示される「+Upload A Video」からアップロードを開始します。
+例：作成したフォルダを開き、表示される「+ビデオをアップロード」からアップロードを開始します。
 
-![](<../.gitbook/assets/image (2)>)
+![](../../.gitbook/assets/videomanagerupload.png)
 
-ボタンを押すとPC内のファイル選択画面が開くので、動画を選ぶと「Video settings」画面に進みます。
+ボタンを押すとPC内のファイル選択画面が開くので、動画を選ぶと「動画設定」画面に進みます。
 
-![](<../.gitbook/assets/image (3)>)
+![](../../.gitbook/assets/video-setting.png)
 
 ***
 
@@ -81,8 +81,8 @@
 
 サムネイル追加時は、内蔵のファイルマネージャーが開いて画像を選択できます。
 
-{% content-ref url="../platform/webusaitofanerubirud/fairumanjnoi.md" %}
-[fairumanjnoi.md](../platform/webusaitofanerubirud/fairumanjnoi.md)
+{% content-ref url="../../platform/webusaitofanerubirud/fairumanjnoi.md" %}
+[fairumanjnoi.md](../../platform/webusaitofanerubirud/fairumanjnoi.md)
 {% endcontent-ref %}
 
 ### **カテゴリ**
@@ -95,7 +95,7 @@
 * 種類ごとに整理できる
 * 視聴体験が分かりやすくなる
 
-![](<../.gitbook/assets/image (4)>)
+![](../../.gitbook/assets/video-category.png)
 
 ### **ビデオチャプター**
 
@@ -109,7 +109,7 @@
 
 ビデオチャプターにより、ユーザーは重要な瞬間を素早く見つけることができ、長尺コンテンツをより魅力的でアクセスしやすく、インタラクティブにします。
 
-![](<../.gitbook/assets/image (5)>)
+![](<../../.gitbook/assets/image (5)>)
 
 ### チャプターの追加手順
 
@@ -118,7 +118,7 @@
 3. タイムスタンプを指定（動画のどの位置か）：チャプターをビデオ内の参照したい正確な位置に配置します
 4. チャプター名を入力（視聴者が内容を判断しやすい名称）：これは視聴者にとって分かりやすい参照となり、関連するセクションに瞬時にジャンプするのに役立ちます
 
-![](<../.gitbook/assets/image (6)>)
+![](<../../.gitbook/assets/image (6)>)
 
 チャプター追加後は一覧で管理できます
 
@@ -127,7 +127,7 @@
 
 この設定により、 **明確でカスタマイズ可能な体験が保証され、**&#x8996;聴者がコンテンツとどのように関わるかを簡単に微調整できます。
 
-![](<../.gitbook/assets/image (7)>)
+![](<../../.gitbook/assets/image (7)>)
 
 ***
 
@@ -141,15 +141,15 @@
 
 コメント管理の詳細は以下をお読みください。
 
-{% content-ref url="../community/komyunitiwijetto/komentoeria.md" %}
-[komentoeria.md](../community/komyunitiwijetto/komentoeria.md)
+{% content-ref url="../../community/komyunitiwijetto/komentoeria.md" %}
+[komentoeria.md](../../community/komyunitiwijetto/komentoeria.md)
 {% endcontent-ref %}
 
-{% content-ref url="../community/komyunitino/komyunitimodershon.md" %}
-[komyunitimodershon.md](../community/komyunitino/komyunitimodershon.md)
+{% content-ref url="../../community/komyunitino/komyunitimodershon.md" %}
+[komyunitimodershon.md](../../community/komyunitino/komyunitimodershon.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/image (8)>)
+![](<../../.gitbook/assets/image (8)>)
 
 ### **キャプション**
 
@@ -164,7 +164,7 @@
 
 この機能はアクセシビリティを向上させ、視聴者が体験を制御できるようにします。
 
-![](<../.gitbook/assets/image (9)>)
+![](<../../.gitbook/assets/image (9)>)
 
 ***
 
@@ -181,4 +181,4 @@
 埋め込み時のポイント\
 チャプターや字幕など、動画側で設定している追加オプションも一緒に反映される場合があります。プラットフォーム外で視聴される場合でも、ナビゲーション性やアクセシビリティ、再生設定などを保ったまま提供できます。
 
-![](<../.gitbook/assets/image (10)>)
+![](<../../.gitbook/assets/image (10)>)

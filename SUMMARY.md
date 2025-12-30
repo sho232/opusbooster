@@ -128,7 +128,8 @@
 
 ## ビデオホスティング <a href="#video" id="video"></a>
 
-* [ビデオマネージャー](video/video-manager.md)
+* [はじめる](video/getting-started/README.md)
+  * [ビデオマネージャー](video/getting-started/video-manager.md)
 
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
