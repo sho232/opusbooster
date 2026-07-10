@@ -1,4 +1,5 @@
 ---
+description: ブログ機能の初期設定と記事作成の基本手順。
 icon: rocket-launch
 ---
 

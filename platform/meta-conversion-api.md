@@ -1,4 +1,5 @@
 ---
+description: MetaコンバージョンAPIの設定方法。Facebook/Instagram広告の計測精度を高める連携手順。
 icon: facebook-f
 ---
 

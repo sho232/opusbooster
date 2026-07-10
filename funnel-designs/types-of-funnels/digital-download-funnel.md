@@ -1,3 +1,7 @@
+---
+description: 電子書籍などのデジタル商品を配布・販売するデジタルダウンロードファネルの構成と使い方。
+---
+
 # デジタルダウンロードファネル
 
 <figure><img src="../../.gitbook/assets/fd-digital-download-1.png" alt=""><figcaption></figcaption></figure>

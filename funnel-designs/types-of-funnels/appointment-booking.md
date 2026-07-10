@@ -1,3 +1,7 @@
+---
+description: 面談や相談の予約を受け付けるアポイントメント予約ファネルの構成と使い方。
+---
+
 # 予約ブッキングファネル
 
 <figure><img src="../../.gitbook/assets/fd-appointment-booking-1.png" alt=""><figcaption></figcaption></figure>

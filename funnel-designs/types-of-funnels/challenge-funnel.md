@@ -1,3 +1,7 @@
+---
+description: 5日間の無料チャレンジ企画で新規客を熱量の高い買い客に変えるチャレンジファネルの構成と使い方。
+---
+
 # チャレンジファネル（Challenge Funnel）
 
 {% hint style="info" %}

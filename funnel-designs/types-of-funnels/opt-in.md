@@ -1,3 +1,7 @@
+---
+description: メールリスト登録に特化したオプトインファネルの構成と使い方。
+---
+
 # オプトインファネル
 
 <figure><img src="../../.gitbook/assets/fd-opt-in-1.png" alt=""><figcaption></figcaption></figure>
