@@ -113,8 +113,8 @@ icon: chart-tree-map
 
 コミュニティロールの割り当てについては以下を参照してください。
 
-{% content-ref url="../komyunitino/komyunitirrunorite.md" %}
-[komyunitirrunorite.md](../komyunitino/komyunitirrunorite.md)
+{% content-ref url="../community-setup/community-roles.md" %}
+[komyunitirrunorite.md](../community-setup/community-roles.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/image (16) (1)>)
@@ -131,8 +131,8 @@ icon: chart-tree-map
 
 この機能は、質の高いエンゲージメントを確保しつつ、よく管理されたコミュニティの維持に役立ちます。
 
-{% content-ref url="../komyunitino/komyunitimodershon.md" %}
-[komyunitimodershon.md](../komyunitino/komyunitimodershon.md)
+{% content-ref url="../community-setup/community-moderation.md" %}
+[komyunitimodershon.md](../community-setup/community-moderation.md)
 {% endcontent-ref %}
 
 ***

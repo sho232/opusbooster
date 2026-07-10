@@ -65,8 +65,8 @@ layout:
 
 新しいページの追加や設定方法がわからない場合は、以下のリンクにアクセスしてください。
 
-{% content-ref url="skuruno.md" %}
-[skuruno.md](skuruno.md)
+{% content-ref url="edit-circles.md" %}
+[skuruno.md](edit-circles.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/image (6) (1) (1) (1) (1) (1)>)

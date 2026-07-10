@@ -25,8 +25,8 @@ Circles を使うことで、単にコミュニティを「管理」するだけ
 
 Circles の見た目のカスタマイズや編集方法については、kで詳しく説明していきます。
 
-{% content-ref url="../skuru/" %}
-[skuru](../skuru/)
+{% content-ref url="../circles/" %}
+[skuru](../circles/)
 {% endcontent-ref %}
 
 {% hint style="success" %}

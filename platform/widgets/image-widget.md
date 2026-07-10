@@ -6,8 +6,8 @@
 
 ファイルマネージャに画像を追加する方法については、以下のリンクをタップしてください。
 
-{% content-ref url="../webusaitofanerubirud/fairumanjnoi.md" %}
-[fairumanjnoi.md](../webusaitofanerubirud/fairumanjnoi.md)
+{% content-ref url="../website-funnel-builder/file-manager.md" %}
+[fairumanjnoi.md](../website-funnel-builder/file-manager.md)
 {% endcontent-ref %}
 
 画像を選択し、ページに配置したら、画像設定タブに移動します。ここでは、画像の説明文「SEOに最適」、影、画像のキャプション、コールトゥアクションを追加できます。

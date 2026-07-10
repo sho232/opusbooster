@@ -12,8 +12,8 @@
 
 {% embed url="https://affiliate.opusbooster.com" %}
 
-{% content-ref url="afirieito.md" %}
-[afirieito.md](afirieito.md)
+{% content-ref url="affiliate-terms.md" %}
+[afirieito.md](affiliate-terms.md)
 {% endcontent-ref %}
 
 ### ミッション

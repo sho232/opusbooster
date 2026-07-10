@@ -97,8 +97,8 @@ icon: messages
 
 コミュニティロールの割り当てについては以下を参照&#x20;
 
-{% content-ref url="../komyunitino/komyunitirrunorite.md" %}
-[komyunitirrunorite.md](../komyunitino/komyunitirrunorite.md)
+{% content-ref url="../community-setup/community-roles.md" %}
+[komyunitirrunorite.md](../community-setup/community-roles.md)
 {% endcontent-ref %}
 
 #### スレッドのエンゲージメント
