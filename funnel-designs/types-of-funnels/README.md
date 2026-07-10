@@ -18,6 +18,7 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **商品ローンチファネル** – 4本の動画シリーズを数日間かけて配信し、新商品をローンチするファネル
 * **VSL（ビデオセールスレター）ファネル** – 1本のセールス動画と注文フォームで完結する販売ファネル
 * **申込式ハイチケットファネル** – 申込フォームと1対1の個別相談で高単価商品を売るファネル
+* **チャレンジファネル** – 5日間の無料チャレンジ企画で新規客を熱量の高い買い客に変えるファネル
 
 各ファネルの詳しい構成と使い方は、それぞれのページをご覧ください。
 
@@ -75,4 +76,8 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="application-funnel.md" %}
 [application-funnel.md](application-funnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="challenge-funnel.md" %}
+[challenge-funnel.md](challenge-funnel.md)
 {% endcontent-ref %}
