@@ -60,6 +60,4 @@ SNS運用AIが生成するキャプションの方向性を指定することも
 
 ご質問やお困りごとがあれば、いつでもお気軽にお問い合わせください!よい投稿ライフを!
 
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_wjprgj.jpg)
-
 更新日: 2026年3月19日

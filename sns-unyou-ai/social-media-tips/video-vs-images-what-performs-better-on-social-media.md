@@ -76,4 +76,3 @@
 
 ご質問や不明点があれば、いつでもお気軽にお問い合わせください。楽しい運用を!
 
-![Download graphic](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_2n41hq.jpg)

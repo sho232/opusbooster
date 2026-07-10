@@ -78,4 +78,3 @@ SNS運用AIのようなツールを使えば、コンテンツの整理や予約
 
 ご質問や不明点があれば、いつでもお気軽にお問い合わせください。楽しい運用を!
 
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_14cwagk.jpg)

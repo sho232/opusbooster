@@ -68,4 +68,3 @@ SNSごとにハッシュタグの使われ方や重要度は異なります。
 
 ハッシュタグはコンテンツを補助するために使いつつも、まず優先すべきは、フォロワーが「関わりたい」と思えるような価値ある投稿を作ることです。
 
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_16nanp3.jpg)

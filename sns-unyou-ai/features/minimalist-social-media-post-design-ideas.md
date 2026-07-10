@@ -87,7 +87,4 @@ SNS運用AIはデザインをシンプルに保つことで、以下を実現し
 
 ご質問やお困りごとがあれば、いつでもお気軽にお問い合わせください!よい投稿ライフを!
 
-
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_54y824.jpg)
-
 更新日: 2026年3月20日
