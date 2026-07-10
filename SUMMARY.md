@@ -136,6 +136,7 @@
 
 * [SNS運用AIについて](sns-unyou-ai/README.md)
 * [はじめに](sns-unyou-ai/getting-started/README.md)
+  * [利用条件と申し込み方法](sns-unyou-ai/getting-started/eligibility-and-signup.md)
   * [トピックの設定方法](sns-unyou-ai/getting-started/setting-up-your-topics.md)
   * [ワークスペースの設定方法](sns-unyou-ai/getting-started/setting-up-your-workspace.md)
   * [よくある質問100選](sns-unyou-ai/getting-started/100-most-common-qa.md)
