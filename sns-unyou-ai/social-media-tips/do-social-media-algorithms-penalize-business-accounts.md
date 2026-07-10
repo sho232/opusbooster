@@ -71,5 +71,3 @@ SNS運用AIのような予約投稿ツールを使うことで、以下が可能
 
 価値のある、魅力的なコンテンツ作りに集中しましょう。アカウントが個人か法人かよりも、こちらの方がリーチへの影響ははるかに大きいのです。
 
-
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_15zx3l3.jpg)

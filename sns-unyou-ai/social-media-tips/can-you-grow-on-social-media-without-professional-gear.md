@@ -82,5 +82,3 @@ SNS運用AIのようなツールを使うと、以下のことができます。
 
 始めるために完璧な機材は必要ありません。明確でシンプル、そして役立つコンテンツがあれば、多くの場合それだけでフォロワーの関心を引くことができます。
 
-
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_xy83pq.jpg)

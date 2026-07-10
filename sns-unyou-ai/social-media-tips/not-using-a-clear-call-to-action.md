@@ -38,5 +38,3 @@ SNS運用AIのようなツールを使えば、行動喚起を組み込んだキ
 
 明確な行動喚起を投稿に取り入れることで、フォロワーの反応を引き出しやすくなり、SNS運用全体の効果も高まります。
 
-![](https://storage.crisp.chat/users/helpdesk/website/-/1/d/e/1/1de1cb83edbcfb00/download_10vltwv.jpg)
-
