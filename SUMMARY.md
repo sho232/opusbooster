@@ -174,6 +174,7 @@
   * [サミットファネル](funnel-designs/types-of-funnels/summit-funnel.md)
   * [デジタルダウンロードファネル](funnel-designs/types-of-funnels/digital-download-funnel.md)
   * [トリップワイヤーファネル](funnel-designs/types-of-funnels/tripwire-funnel.md)
+  * [商品ローンチファネル](funnel-designs/types-of-funnels/product-launch-funnel.md)
 
 ## SNS運用AI <a href="#sns-unyou-ai" id="sns-unyou-ai"></a>
 

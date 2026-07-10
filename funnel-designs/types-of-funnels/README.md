@@ -15,6 +15,7 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **サミットファネル** – オンラインイベント（サミット）の集客用ファネル
 * **デジタルダウンロードファネル** – 電子書籍などのデジタル商品を配布・販売するファネル
 * **トリップワイヤーファネル** – 無料+送料や低価格商品を入口に「買い客」への転換をつくるファネル
+* **商品ローンチファネル** – 4本の動画シリーズを数日間かけて配信し、新商品をローンチするファネル
 
 各ファネルの詳しい構成と使い方は、それぞれのページをご覧ください。
 
@@ -60,4 +61,8 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="tripwire-funnel.md" %}
 [tripwire-funnel.md](tripwire-funnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="product-launch-funnel.md" %}
+[product-launch-funnel.md](product-launch-funnel.md)
 {% endcontent-ref %}
