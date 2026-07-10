@@ -17,6 +17,7 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **トリップワイヤーファネル** – 無料+送料や低価格商品を入口に「買い客」への転換をつくるファネル
 * **商品ローンチファネル** – 4本の動画シリーズを数日間かけて配信し、新商品をローンチするファネル
 * **VSL（ビデオセールスレター）ファネル** – 1本のセールス動画と注文フォームで完結する販売ファネル
+* **申込式ハイチケットファネル** – 申込フォームと個別電話クロージングで高単価商品を売るファネル
 
 各ファネルの詳しい構成と使い方は、それぞれのページをご覧ください。
 
@@ -70,4 +71,8 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="vsl-funnel.md" %}
 [vsl-funnel.md](vsl-funnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="application-funnel.md" %}
+[application-funnel.md](application-funnel.md)
 {% endcontent-ref %}

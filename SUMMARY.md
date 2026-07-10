@@ -176,6 +176,7 @@
   * [トリップワイヤーファネル](funnel-designs/types-of-funnels/tripwire-funnel.md)
   * [商品ローンチファネル](funnel-designs/types-of-funnels/product-launch-funnel.md)
   * [VSL（ビデオセールスレター）ファネル](funnel-designs/types-of-funnels/vsl-funnel.md)
+  * [申込式ハイチケットファネル](funnel-designs/types-of-funnels/application-funnel.md)
 
 ## SNS運用AI <a href="#sns-unyou-ai" id="sns-unyou-ai"></a>
 
