@@ -81,8 +81,8 @@
 
 サムネイル追加時は、内蔵のファイルマネージャーが開いて画像を選択できます。
 
-{% content-ref url="../../platform/webusaitofanerubirud/fairumanjnoi.md" %}
-[fairumanjnoi.md](../../platform/webusaitofanerubirud/fairumanjnoi.md)
+{% content-ref url="../../platform/website-funnel-builder/file-manager.md" %}
+[fairumanjnoi.md](../../platform/website-funnel-builder/file-manager.md)
 {% endcontent-ref %}
 
 ### **カテゴリ**
@@ -141,12 +141,12 @@
 
 コメント管理の詳細は以下をお読みください。
 
-{% content-ref url="../../community/komyunitiwijetto/komentoeria.md" %}
-[komentoeria.md](../../community/komyunitiwijetto/komentoeria.md)
+{% content-ref url="../../community/community-widgets/comment-area.md" %}
+[komentoeria.md](../../community/community-widgets/comment-area.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../community/komyunitino/komyunitimodershon.md" %}
-[komyunitimodershon.md](../../community/komyunitino/komyunitimodershon.md)
+{% content-ref url="../../community/community-setup/community-moderation.md" %}
+[komyunitimodershon.md](../../community/community-setup/community-moderation.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/image (14)>)

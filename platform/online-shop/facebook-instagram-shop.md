@@ -24,7 +24,7 @@ Facebook社のeコマースポリシーは[こちら](https://www.facebook.com/p
 
 まず、ページビルダーにアクセスして、FacebookストアのURLを取得する必要があります。
 
-URLが表示されない場合は、最初に[Metaピクセル](../metakonbjonapi.md)コードを追加する必要があります。そうすると、FacebookストアのURLが生成されます。
+URLが表示されない場合は、最初に[Metaピクセル](../meta-conversion-api.md)コードを追加する必要があります。そうすると、FacebookストアのURLが生成されます。
 
 例）www.yourwebsite.com/product\_feed
 

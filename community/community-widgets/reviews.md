@@ -67,8 +67,8 @@ icon: message-smile
 
 この機能は、あなたのプラットフォームを **整理され、プロフェッショナルで、コミュニティ基準に沿った状態** に保ちます。
 
-{% content-ref url="../komyunitino/komyunitimodershon.md" %}
-[komyunitimodershon.md](../komyunitino/komyunitimodershon.md)
+{% content-ref url="../community-setup/community-moderation.md" %}
+[komyunitimodershon.md](../community-setup/community-moderation.md)
 {% endcontent-ref %}
 
 ### 誰が返信できるか

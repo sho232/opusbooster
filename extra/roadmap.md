@@ -133,7 +133,7 @@ OpusBoosterのコミュニティ機能がさらに充実！メンバー同士の
 ### 2024年4月
 
 * システムメールテンプレート - システムが生成するメールを編集できるようになりました。
-* 個別プロフィールのメール送信 - CRMから顧客に直接メールを送信できるようになりました。詳細は[こちら](../platform/email-and-automation/nomru.md)。
+* 個別プロフィールのメール送信 - CRMから顧客に直接メールを送信できるようになりました。詳細は[こちら](../platform/email-and-automation/individual-emails.md)。
 
 ### 2023年7月
 
@@ -159,8 +159,8 @@ OpusBoosterのコミュニティ機能がさらに充実！メンバー同士の
 * アイコンセットをFontAwesomeの最新バージョンにアップデートしました。
 * カゴ落ち対策の自動化を追加しました。詳細は以下の記事をご参照ください。
 
-{% content-ref url="../platform/nettoshoppu/kagochi.md" %}
-[kagochi.md](../platform/nettoshoppu/kagochi.md)
+{% content-ref url="../platform/online-shop/abandoned-cart.md" %}
+[kagochi.md](../platform/online-shop/abandoned-cart.md)
 {% endcontent-ref %}
 
 ### 2022年11月

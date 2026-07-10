@@ -11,53 +11,53 @@ icon: book
 
 ### 第1章：SNSマーケティングの基礎知識
 
-* [SNSマーケティングの重要性と最新動向](snsgaido.md#snsmketingunoto)
-* [SNSマーケティングがもたらす効果](snsgaido.md#snsmketingugamotarasu)
-* [主要SNSプラットフォームの最新動向](snsgaido.md#snspurattofmuno)
-* [マーケティング自動化の重要性](snsgaido.md#mketinguno)
-* [時代に左右されないマーケティング戦略の原則](snsgaido.md#nisarenaimketinguno)
-* [忙しい起業家・中小企業経営者が短時間で成果を出すためのSNS戦略](snsgaido.md#shiigadewosutamenosns)
+* [SNSマーケティングの重要性と最新動向](sns-strategy-guide.md#snsmketingunoto)
+* [SNSマーケティングがもたらす効果](sns-strategy-guide.md#snsmketingugamotarasu)
+* [主要SNSプラットフォームの最新動向](sns-strategy-guide.md#snspurattofmuno)
+* [マーケティング自動化の重要性](sns-strategy-guide.md#mketinguno)
+* [時代に左右されないマーケティング戦略の原則](sns-strategy-guide.md#nisarenaimketinguno)
+* [忙しい起業家・中小企業経営者が短時間で成果を出すためのSNS戦略](sns-strategy-guide.md#shiigadewosutamenosns)
 
 ### 第2章：SNS投稿の最適な戦略ガイド
 
-* [SNS投稿の基本原則](snsgaido.md#snsno)
-* [投稿の種類と目的](snsgaido.md#noto)
-* [アルゴリズムの仕組みと投稿最適化](snsgaido.md#arugorizumunomito)
-* [投稿の頻度とベストタイミング](snsgaido.md#notobesutotaimingu)
-* [効果的なハッシュタグ戦略](snsgaido.md#nahasshutagu)
-* [ビジュアル・動画コンテンツの活用](snsgaido.md#bijuarukontentsuno)
-* [キャプションとCTA（行動喚起）の書き方](snsgaido.md#kyapushontoctanoki)
+* [SNS投稿の基本原則](sns-strategy-guide.md#snsno)
+* [投稿の種類と目的](sns-strategy-guide.md#noto)
+* [アルゴリズムの仕組みと投稿最適化](sns-strategy-guide.md#arugorizumunomito)
+* [投稿の頻度とベストタイミング](sns-strategy-guide.md#notobesutotaimingu)
+* [効果的なハッシュタグ戦略](sns-strategy-guide.md#nahasshutagu)
+* [ビジュアル・動画コンテンツの活用](sns-strategy-guide.md#bijuarukontentsuno)
+* [キャプションとCTA（行動喚起）の書き方](sns-strategy-guide.md#kyapushontoctanoki)
 
 ### 第3章：コンテンツプランニングとスケジュール管理
 
-* [計画を立てたら、未来が変わった日。～SさんのSNS発信奮闘記～](snsgaido.md#wotetaragawattassannosns)
-* [コンテンツプランニングとアイデア出し：実践ガイド](snsgaido.md#kontentsupuranningutoaideashigaido)
-* [SNS投稿のスケジュール管理と自動化ガイド](snsgaido.md#snsnosukejrutogaido)
+* [計画を立てたら、未来が変わった日。～SさんのSNS発信奮闘記～](sns-strategy-guide.md#wotetaragawattassannosns)
+* [コンテンツプランニングとアイデア出し：実践ガイド](sns-strategy-guide.md#kontentsupuranningutoaideashigaido)
+* [SNS投稿のスケジュール管理と自動化ガイド](sns-strategy-guide.md#snsnosukejrutogaido)
 
 ### 第4章：各SNSプラットフォームの最適活用戦略
 
-* [SNSごとの特性と戦略](snsgaido.md#snsgotonoto)
-* [BtoBとBtoCのアプローチの違い](snsgaido.md#btobtobtocnoapurchinoi)
-* [成功事例と実践テクニック](snsgaido.md#totekunikku)
+* [SNSごとの特性と戦略](sns-strategy-guide.md#snsgotonoto)
+* [BtoBとBtoCのアプローチの違い](sns-strategy-guide.md#btobtobtocnoapurchinoi)
+* [成功事例と実践テクニック](sns-strategy-guide.md#totekunikku)
 
 ### 第5章：SNSマーケティングの成功事例と実践テクニック
 
-* [幅広い業種の成功事例](snsgaido.md#ino)
-* [SNSマーケティング全般の実践テクニック](snsgaido.md#snsmketingunotekunikku)
-* [最新の統計データとSNSアルゴリズムの変化](snsgaido.md#nodtatosnsarugorizumuno)
+* [幅広い業種の成功事例](sns-strategy-guide.md#ino)
+* [SNSマーケティング全般の実践テクニック](sns-strategy-guide.md#snsmketingunotekunikku)
+* [最新の統計データとSNSアルゴリズムの変化](sns-strategy-guide.md#nodtatosnsarugorizumuno)
 
 ### 第6章：トラブルシューティング＆FAQガイド
 
-* [主要なSNSトラブルと対処法](snsgaido.md#nasnstoraburuto)
-* [AI投稿生成とOpusBooster活用に関するFAQ](snsgaido.md#aitoopusboosternisurufaq)
-* [ケーススタディによる実践的トラブル解決](snsgaido.md#ksusutadiniyorutoraburu)
+* [主要なSNSトラブルと対処法](sns-strategy-guide.md#nasnstoraburuto)
+* [AI投稿生成とOpusBooster活用に関するFAQ](sns-strategy-guide.md#aitoopusboosternisurufaq)
+* [ケーススタディによる実践的トラブル解決](sns-strategy-guide.md#ksusutadiniyorutoraburu)
 
 ### 第7章：総括と実践のためのチェックリスト
 
-* [全体の要点整理](snsgaido.md#no-1)
-* [チェックリスト形式のアクションプラン](snsgaido.md#chekkurisutonoakushonpuran)
-* [ターゲット層別の推奨アクション](snsgaido.md#tgettonoakushon)
-* [OpusBoosterの再強調](snsgaido.md#opusboosterno-1)
+* [全体の要点整理](sns-strategy-guide.md#no-1)
+* [チェックリスト形式のアクションプラン](sns-strategy-guide.md#chekkurisutonoakushonpuran)
+* [ターゲット層別の推奨アクション](sns-strategy-guide.md#tgettonoakushon)
+* [OpusBoosterの再強調](sns-strategy-guide.md#opusboosterno-1)
 
 ***
 

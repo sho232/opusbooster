@@ -59,6 +59,6 @@ layout:
 
 ページ／グループレベルの設定の見つけ方：
 
-{% content-ref url="skuru/skuruno.md" %}
-[skuruno.md](skuru/skuruno.md)
+{% content-ref url="circles/edit-circles.md" %}
+[skuruno.md](circles/edit-circles.md)
 {% endcontent-ref %}

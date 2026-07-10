@@ -14,40 +14,40 @@
 
 以下のガイドに沿って、ビジネスの仕組み化をはじめましょう！
 
-{% content-ref url="platform/hajimeni/" %}
-[hajimeni](platform/hajimeni/)
+{% content-ref url="platform/getting-started/" %}
+[hajimeni](platform/getting-started/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/webusaitofanerubirud/" %}
-[webusaitofanerubirud](platform/webusaitofanerubirud/)
+{% content-ref url="platform/website-funnel-builder/" %}
+[webusaitofanerubirud](platform/website-funnel-builder/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/wijetto/" %}
-[wijetto](platform/wijetto/)
+{% content-ref url="platform/widgets/" %}
+[wijetto](platform/widgets/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/faneru/" %}
-[faneru](platform/faneru/)
+{% content-ref url="platform/funnels/" %}
+[faneru](platform/funnels/)
 {% endcontent-ref %}
 
 {% content-ref url="platform/email-and-automation/" %}
 [email-and-automation](platform/email-and-automation/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/gu-ke-guan-li-crm/" %}
-[gu-ke-guan-li-crm](platform/gu-ke-guan-li-crm/)
+{% content-ref url="platform/crm/" %}
+[gu-ke-guan-li-crm](platform/crm/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/nettoshoppu/" %}
-[nettoshoppu](platform/nettoshoppu/)
+{% content-ref url="platform/online-shop/" %}
+[nettoshoppu](platform/online-shop/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/yu-yue/" %}
-[yu-yue](platform/yu-yue/)
+{% content-ref url="platform/appointments/" %}
+[yu-yue](platform/appointments/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/metakonbjonapi.md" %}
-[metakonbjonapi.md](platform/metakonbjonapi.md)
+{% content-ref url="platform/meta-conversion-api.md" %}
+[metakonbjonapi.md](platform/meta-conversion-api.md)
 {% endcontent-ref %}
 
 {% content-ref url="internal-integrations/email/" %}
@@ -66,8 +66,8 @@
 [zapier.md](external-integrations/zapier.md)
 {% endcontent-ref %}
 
-{% content-ref url="afirieitonitsuite/" %}
-[afirieitonitsuite](afirieitonitsuite/)
+{% content-ref url="affiliate-program/" %}
+[afirieitonitsuite](affiliate-program/)
 {% endcontent-ref %}
 
 ## OpusBooster Docs

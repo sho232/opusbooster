@@ -32,7 +32,7 @@
 
 ![](https://buildersupport.gitbook.io/~gitbook/image?url=https%3A%2F%2F3435513056-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FdG2nDIBweqHNGjfJ4NQm%252Fuploads%252Fp2sH1sZImAvg58WOVMHe%252Fsdsdasdasdaa.PNG%3Falt%3Dmedia%26token%3Dcfc953a6-0765-497b-bab0-bd6721d2709c\&width=768\&dpr=4\&quality=100\&sign=6cf89cea\&sv=1)
 
-[ウィジェット](../wijetto/)の種類に関係なく、ポップアップインターフェースにドラッグ＆ドロップすることができます。ポップアップに移動した後も、ウィジェットのすべての機能が動作し、標準のページビルダー環境内と同様に、変更、再配置、カスタマイズが可能です。
+[ウィジェット](../widgets/)の種類に関係なく、ポップアップインターフェースにドラッグ＆ドロップすることができます。ポップアップに移動した後も、ウィジェットのすべての機能が動作し、標準のページビルダー環境内と同様に、変更、再配置、カスタマイズが可能です。
 
 これにより、シームレスで多様な編集体験が可能になり、機能上の制限や妥協をすることなく、あなたはコンテンツを最適化し、パーソナライズする柔軟性を手に入れることができます。
 
