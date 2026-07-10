@@ -14,6 +14,7 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **メンバーシップファネル** – 会員制コンテンツへの入会を促すファネル
 * **サミットファネル** – オンラインイベント（サミット）の集客用ファネル
 * **デジタルダウンロードファネル** – 電子書籍などのデジタル商品を配布・販売するファネル
+* **トリップワイヤーファネル** – 無料+送料や低価格商品を入口に「買い客」への転換をつくるファネル
 
 各ファネルの詳しい構成と使い方は、それぞれのページをご覧ください。
 
@@ -55,4 +56,8 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="digital-download-funnel.md" %}
 [digital-download-funnel.md](digital-download-funnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="tripwire-funnel.md" %}
+[tripwire-funnel.md](tripwire-funnel.md)
 {% endcontent-ref %}
