@@ -14,6 +14,10 @@ layout:
     visible: true
   metadata:
     visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 新しいページ/グループの追加
@@ -22,7 +26,7 @@ layout:
 
 新しいページやグループを作成するには、追加ボタンをクリックしてください:
 
-![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1)>)
+![](<../../.gitbook/assets/image (5) (1) (1) (1) (1) (1)>)
 
 **新しいページを作成するには、ページタブをクリックしてください。** 選択すると、ページ名を入力するよう求められます — これはタブに表示されるタイトルにもなります。そこからコンテンツを追加し、ページレベルの設定を調整できます。 [ページレベルの設定の詳細はこちら](https://buildersupport.gitbook.io/help-docs/ja/skuru/skuruno).
 

@@ -26,7 +26,7 @@ description: メールキャンペーン（メルマガの送信）の設定
 
 ### **テンプレートを選択** <a href="#select-your-template" id="select-your-template"></a>
 
-![](../../.gitbook/assets/image-15.png)
+![](../../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 テンプレートを使わず、白紙からメールを作成することもできます

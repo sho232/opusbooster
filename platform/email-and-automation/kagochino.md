@@ -32,11 +32,10 @@
 
 下の画像のように、ストアダッシュボードのタブの右側に、「」タブが表示されます。
 
-<figure><img src="../../.gitbook/assets/storedashboard (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/storedashboard.png" alt=""><figcaption></figcaption></figure>
 
 下は注文タブの表示です。ここでもストア全体または個々のファネルにフィルタリングして、すべての放棄されたカートを表示することができます。
 
 <figure><img src="../../.gitbook/assets/ordertab.png" alt=""><figcaption></figcaption></figure>
 
 これで、カゴ落ち客の最大68.9%を取り戻す準備が整いました！
-

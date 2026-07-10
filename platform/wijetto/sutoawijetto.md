@@ -13,8 +13,6 @@
 * 選択した商品
 * 表示する商品の数
 
-<figure><img src="../../.gitbook/assets/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FdBvgC7oBkylM66njPsjY%2Fstore%20edit%20products.webp" alt=""><figcaption></figcaption></figure>
-
 ### 商品レイアウト
 
 この設定のオプションの多くは、より視覚的な設定です。それでは、重要な設定をより詳しく見ていきましょう。
@@ -26,8 +24,6 @@
 **カートに追加**： ショッピングカートに複数のアイテムを追加したい場合、このオプションが便利です。カートに入れるをクリックすると、そのアイテムは自動的にカートに保存され、次のアクションを待つことができます。
 
 **今すぐ購入**： 今すぐ購入ボタンを選択することで、訪問者が今すぐ購入ボタンをクリックすると、自動的に決済用の「チェックアウト」ページが表示され、購入の準備ができます。
-
-<figure><img src="../../.gitbook/assets/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FInd0CNLeGNW21ihFfeGO%2FCheckout%20-%20product%20feed%20layout.webp" alt=""><figcaption></figcaption></figure>
 
 ### 商品フィードの外観
 
