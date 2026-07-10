@@ -1,3 +1,7 @@
+---
+description: オンラインイベント（サミット）の集客用ファネルの構成と使い方。
+---
+
 # サミットファネル
 
 <figure><img src="../../.gitbook/assets/fd-summit-1.png" alt=""><figcaption></figcaption></figure>

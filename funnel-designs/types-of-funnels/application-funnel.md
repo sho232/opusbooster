@@ -1,3 +1,7 @@
+---
+description: 申込フォームと1対1の個別相談で高単価商品を販売する申込式ハイチケットファネルの構成と使い方。
+---
+
 # 申込式ハイチケットファネル（Application Funnel）
 
 {% hint style="info" %}

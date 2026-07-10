@@ -1,3 +1,7 @@
+---
+description: 会員制コンテンツへの入会を促すメンバーシップファネルの構成と使い方。
+---
+
 # メンバーシップファネル
 
 <figure><img src="../../.gitbook/assets/fd-membership-1.png" alt=""><figcaption></figcaption></figure>

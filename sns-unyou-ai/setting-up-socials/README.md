@@ -1,3 +1,7 @@
+---
+description: InstagramやFacebookなどソーシャルアカウントの接続と設定方法。
+---
+
 # ソーシャル連携の設定
 
 Facebook、Instagram、Pinterestなど各SNSアカウントの接続・再接続方法をまとめています。

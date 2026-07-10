@@ -1,4 +1,5 @@
 ---
+description: SNSマーケティングの戦略設計からプラットフォーム別攻略・アルゴリズム対策までを網羅したSNS投稿戦略ガイド。
 hidden: true
 icon: book
 ---

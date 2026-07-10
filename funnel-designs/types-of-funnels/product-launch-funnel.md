@@ -1,3 +1,7 @@
+---
+description: 4本の動画シリーズを数日間かけて配信して販売する商品ローンチファネル（PLF）の構成と使い方。
+---
+
 # 商品ローンチファネル（Product Launch Funnel）
 
 {% hint style="info" %}

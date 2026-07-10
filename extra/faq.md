@@ -1,4 +1,5 @@
 ---
+description: OpusBooster全般のよくある質問と回答。
 icon: square-question
 ---
 

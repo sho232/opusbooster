@@ -1,3 +1,7 @@
+---
+description: オンラインコースの販売から受講までの動線を作るオンラインコースファネルの構成と使い方。
+---
+
 # オンラインコースファネル
 
 <figure><img src="../../.gitbook/assets/fd-online-course-1.png" alt=""><figcaption></figcaption></figure>
