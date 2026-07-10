@@ -18,11 +18,15 @@
 
 このページから、サブスクリプションのキャンセルや支払い方法の更新も行えます。
 
+<figure><img src="../../.gitbook/assets/subscription-management-1.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### 支払い方法を変更する
 
 「**支払い方法を変更**」をクリックすると、このサブスクリプションで使用するカードや支払いオプションを更新できます。
 
 新しい支払い情報を入力して確定します。保存すると、カードの種類や下4桁を含む新しい支払い方法がすぐに表示されるため、どの支払い方法が有効になっているかひと目で確認できます。
+
+<figure><img src="../../.gitbook/assets/subscription-management-2.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## 管理者向け: 顧客のサブスクリプションの管理
 
@@ -39,11 +43,15 @@
 * **前回の支払日**
 * **次回の支払日**
 
+<figure><img src="../../.gitbook/assets/subscription-management-3.jpeg" alt=""><figcaption></figcaption></figure>
+
 ### サブスクリプションの詳細を開く
 
 サブスクリプションをクリックすると、詳細を確認できます。
 
 「**サブスクリプション管理**」パネルが開き、現在のステータスと設定内容が表示されます。
+
+<figure><img src="../../.gitbook/assets/subscription-management-4.jpeg" alt=""><figcaption></figcaption></figure>
 
 ### サブスクリプションの内容を編集する
 

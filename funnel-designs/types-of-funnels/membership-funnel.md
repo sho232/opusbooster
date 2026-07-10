@@ -1,5 +1,7 @@
 # メンバーシップファネル
 
+<figure><img src="../../.gitbook/assets/fd-membership-1.png" alt=""><figcaption></figcaption></figure>
+
 ## メンバーシップファネルとは
 
 メンバーシップファネルは、会員制の商品やサービスを販売するためにオンラインビジネスが使用する販売戦略です。ファネルは通常、次の4つのステップで構成されます。
@@ -22,6 +24,8 @@
 
 ビルダー内では、この4ステップのファネルが表示され、機能させるために必要なすべてのステップが揃っています。
 
+<figure><img src="../../.gitbook/assets/fd-membership-2.png" alt=""><figcaption></figcaption></figure>
+
 ファネルステップの横にある**トロフィーアイコン**は**目標達成**を示し、訪問者が正常にアクションを起こしたことを表します。
 
 **目標の追跡について：**
@@ -42,6 +46,8 @@
 
 ## ランディングページ
 
+<figure><img src="../../.gitbook/assets/fd-membership-3.png" alt=""><figcaption></figcaption></figure>
+
 ランディングページは多くの要素で構築されており、それらはコンテナ内に配置されています。ここでの主な目的はリードの獲得です。次のステップに進んでもらえるよう、行動を促すのに十分な情報を提供します。
 
 メンバーシップファネルのフォーマットとレイアウトデザインは複数のコンテナに分割されており、すべての情報が正しく表示され、何より読みやすく理解しやすいようになっています。すべてのテンプレートには、何を書けばよいかの参考になるシンプルなテキストが用意されています。
@@ -55,7 +61,11 @@
 
 訪問者がボタンをタップしたときに、選択したアイテムを直接カートに追加する設定にしています。
 
+<figure><img src="../../.gitbook/assets/fd-membership-4.png" alt=""><figcaption></figcaption></figure>
+
 ## 注文ページ
+
+<figure><img src="../../.gitbook/assets/fd-membership-5.webp" alt=""><figcaption></figcaption></figure>
 
 訪問者がランディングページのボタンをクリックすると、次のステップとして商品が表示される注文ページに移動します。
 
@@ -63,15 +73,23 @@
 
 カートチェックアウトオプションを使用すると、前述のとおり、ユーザーがボタンをタップした時点でアイテムが自動的にカートに追加されます。
 
+<figure><img src="../../.gitbook/assets/fd-membership-6.png" alt=""><figcaption></figcaption></figure>
+
 ## サンキューページ
+
+<figure><img src="../../.gitbook/assets/fd-membership-7.png" alt=""><figcaption></figcaption></figure>
 
 ユーザーがチェックアウトを正常に完了すると、サンキューページにリダイレクトされます。このページでは購入を確定し、次のステップの詳細を案内し、追加のリソースやボーナスを提供するとよいでしょう。他のコースや関連商品をアップセルする機会にもなります。さらに、会員が会員プログラムを始めやすくなるよう、会員エリアへのナビゲーションを含めることをおすすめします。
 
 ## 会員エリア
 
+<figure><img src="../../.gitbook/assets/fd-membership-8.png" alt=""><figcaption></figcaption></figure>
+
 ファネルの最終ステップは、実際の会員エリアです。ここで会員は限定コンテンツにアクセスし、利用を開始します。
 
 ## 会員管理
+
+<figure><img src="../../.gitbook/assets/fd-membership-9.png" alt=""><figcaption></figcaption></figure>
 
 サイト・ファネル内のすべての会員は、自分専用の会員管理エリアにもアクセスできます。
 

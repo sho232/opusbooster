@@ -15,10 +15,16 @@
 
 ユーザー体験とブランドの一貫性を高める、手軽な方法です。
 
+<figure><img src="../../../.gitbook/assets/se-double-opt-in-1.png" alt=""><figcaption></figcaption></figure>
+
 ### フィールドを追加するには
 
 システムメールのテンプレートにフィールドを追加したい場合は、テキスト入力中にテキストエディターを選択し、**タグ**アイコンをクリックします。タグアイコンをクリックすると、そのシステムテンプレートに追加できる専用フィールドが一覧表示されます。
 
+<figure><img src="../../../.gitbook/assets/se-double-opt-in-2.png" alt=""><figcaption></figcaption></figure>
+
 ここには、ダブルオプトイン確認のシステムメールに割り当てられたすべての専用フィールドが表示されます。
 
 また、すべてのCRMプロパティもメールに追加できます。自分で作成したカスタムプロパティがある場合は、それらもここに一覧表示されます。
+
+<figure><img src="../../../.gitbook/assets/se-double-opt-in-3.png" alt=""><figcaption></figcaption></figure>

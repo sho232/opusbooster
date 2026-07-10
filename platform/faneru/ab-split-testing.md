@@ -23,16 +23,22 @@ A/Bスプリットテストでは、**ファネルステップのバリエーシ
 
 **データに基づく改善**で、より良いコンバージョンにつなげましょう。
 
+<figure><img src="../../.gitbook/assets/ab-split-testing-1.png" alt=""><figcaption></figcaption></figure>
+
 ステップを選択してA/Bテストをクリックすると、ポップアップが表示されます。ここでは2つのオプションから選べます。
 
 * **ステップを複製**
 * **新しいページ**
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-2.png" alt=""><figcaption></figcaption></figure>
 
 **ステップを複製**を選ぶと、ファネルステップ全体の完全なコピーが自動的に作成されます。コピーは必要に応じて編集できます（詳しくは後述します）。
 
 **新しいページ**を選ぶと、あらかじめ用意されたページデザインを使ってページをゼロから作成できます。
 
 この例では、**ステップを複製**オプションを選択して進めます。
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-3.png" alt=""><figcaption></figcaption></figure>
 
 ## 最適なテストタイプの選択
 
@@ -48,6 +54,8 @@ A/Bスプリットテストでは、**ファネルステップのバリエーシ
 ## スプリットテストバー
 
 スプリットテストバーには、ステップAとステップB（つまりページ1とページ2）の両方が表示されます。バー内にはさまざまな数値が表示されますが、これらは各ページを訪れた人数とコンバージョン率、つまりそのファネルステップを訪れて次のステップに進んだ人の割合を示す分析データです。
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-4.png" alt=""><figcaption></figcaption></figure>
 
 ## ウィナー選択
 
@@ -65,6 +73,8 @@ A/Bスプリットテストでは、**ファネルステップのバリエーシ
 ## 手動ウィナー
 
 **手動ウィナー**オプションでは、選択ボタンをクリックするだけで勝者を選べます。これは「ファネルステップが一定の訪問者数に達したら、訪問者数やコンバージョン率を見て自分で勝者側を選択する」という意味です。
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-5.png" alt=""><figcaption></figcaption></figure>
 
 注意: 自動・手動のどちらのオプションを使う場合でも、勝者を選択する（または自動で選ばれる）と、勝者にならなかった側のステップは削除されます。
 
@@ -89,6 +99,10 @@ A/Bスプリットテストでは、**ファネルステップのバリエーシ
 ## テストの例
 
 同じ見出しと同じコールトゥアクションを持ち、レイアウトデザインだけが異なる2つのページを比べてみてください。あなたなら、どちらをクリックしたくなるでしょうか？
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-6.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/ab-split-testing-7.png" alt=""><figcaption></figcaption></figure>
 
 ファネルのスプリットテスト機能の優れた点は、勝者を手動で選ぶか、自動化に任せて最適化させるかを自由に選べる柔軟性にあります。
 
