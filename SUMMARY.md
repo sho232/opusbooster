@@ -139,7 +139,6 @@
   * [トピックの設定方法](sns-unyou-ai/getting-started/setting-up-your-topics.md)
   * [ワークスペースの設定方法](sns-unyou-ai/getting-started/setting-up-your-workspace.md)
   * [よくある質問100選](sns-unyou-ai/getting-started/100-most-common-qa.md)
-  * [ロードマップ・コミュニティガイドライン](sns-unyou-ai/getting-started/roadmap-community-guidelines.md)
 * [SNS運用AIの機能](sns-unyou-ai/features/README.md)
   * [投稿デザインの編集方法](sns-unyou-ai/features/editing-posts-design.md)
   * [対応している画像形式](sns-unyou-ai/features/supported-image-formats.md)
