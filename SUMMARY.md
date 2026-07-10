@@ -163,6 +163,7 @@
 ## ファネルデザイン <a href="#funnel-designs" id="funnel-designs"></a>
 
 * [ファネルの種類](funnel-designs/types-of-funnels/README.md)
+  * [ファネルの種類一覧（バリューラダー別ガイド）](funnel-designs/types-of-funnels/value-ladder-guide.md)
   * [リードジェネレーション](funnel-designs/types-of-funnels/lead-generation.md)
   * [ウェビナー](funnel-designs/types-of-funnels/webinar.md)
   * [ヒーロー](funnel-designs/types-of-funnels/hero.md)
