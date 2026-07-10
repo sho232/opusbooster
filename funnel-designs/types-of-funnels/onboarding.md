@@ -7,6 +7,8 @@
 2. サンキューページ
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/fd-onboarding-1.png" alt=""><figcaption></figcaption></figure>
+
 ### オンボーディングファネルとは？
 
 オンボーディングファネルは、ユーザーが製品やサービスに慣れるまでの一連のステップです。その目的は、ユーザーが製品やサービスを効果的に使い始められるように導き、混乱・フラストレーション・離脱の可能性を減らすことです。
@@ -22,6 +24,8 @@
 ### ファネルのステップ
 
 ビルダー内では、2段階のファネルとして表示されます。機能するために必要なステップがすべて揃っています。
+
+<figure><img src="../../.gitbook/assets/fd-onboarding-2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 ファネルステップの横にある**トロフィーアイコン**は**目標達成**を示し、訪問者がファネル内でアクションを正常に完了したことを表します。
@@ -47,10 +51,16 @@
 
 オンボーディングファネルのレイアウトは、すべての情報が正しく表示され、何より読みやすく理解しやすいように複数のコンテナに分割されています。
 
+<figure><img src="../../.gitbook/assets/fd-onboarding-3.png" alt=""><figcaption></figcaption></figure>
+
 ### サンキューページ
 
 実施するオンボーディングキャンペーンの種類によって、サンキューページに必要な情報が変わります。
 
 この例では、ランディングページの目的は新しい製品ローンチのリードを獲得してメールリストを構築することでした。サンキューページでは、確認メールを送信したことを伝え、ボタンウィジェットを追加してコミュニティに参加してもらうためのリンクを設けています。
+
+<figure><img src="../../.gitbook/assets/fd-onboarding-4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/fd-onboarding-5.png" alt=""><figcaption></figcaption></figure>
 
 クイズの作成方法について詳しくは、クイズ＆アンケートのページをご覧ください。

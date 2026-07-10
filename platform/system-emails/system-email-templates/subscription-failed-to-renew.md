@@ -15,10 +15,16 @@
 
 ユーザーとのコミュニケーションを高めながら、スムーズな更新手続きへつなげるための、シンプルで効果的な方法です。
 
+<figure><img src="../../../.gitbook/assets/se-subscription-failed-1.png" alt=""><figcaption></figcaption></figure>
+
 ### フィールドを追加するには
 
 システムメールのテンプレートにフィールドを追加したい場合は、テキスト入力中にテキストエディターを選択し、**タグ**アイコンをクリックします。タグアイコンをクリックすると、そのシステムテンプレートに追加できる専用フィールドが一覧表示されます。
 
+<figure><img src="../../../.gitbook/assets/se-subscription-failed-2.png" alt=""><figcaption></figcaption></figure>
+
 ここには、サブスクリプション更新失敗のシステムメールに割り当てられたすべての専用フィールドが表示されます。
 
 また、すべてのCRMプロパティもメールに追加できます。自分で作成したカスタムプロパティがある場合は、それらもここに一覧表示されます。
+
+<figure><img src="../../../.gitbook/assets/se-subscription-failed-3.png" alt=""><figcaption></figcaption></figure>

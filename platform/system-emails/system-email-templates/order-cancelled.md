@@ -13,10 +13,16 @@
 * **ドラッグ＆ドロップエディターを使う** — レイアウト、カラー、書式をかんたんにパーソナライズできます。
 * **文面の見直し** — わかりやすい内容にして、キャンセル時もスムーズな顧客体験を提供しましょう。
 
+<figure><img src="../../../.gitbook/assets/se-order-cancelled-1.png" alt=""><figcaption></figcaption></figure>
+
 ### フィールドを追加するには
 
 システムメールのテンプレートにフィールドを追加したい場合は、テキスト入力中にテキストエディターを選択し、**タグ**アイコンをクリックします。タグアイコンをクリックすると、そのシステムテンプレートに追加できる専用フィールドが一覧表示されます。
 
+<figure><img src="../../../.gitbook/assets/se-order-cancelled-2.png" alt=""><figcaption></figcaption></figure>
+
 ここには、注文キャンセルのシステムメールに割り当てられたすべての専用フィールドが表示されます。
 
 また、すべてのCRMプロパティもメールに追加できます。自分で作成したカスタムプロパティがある場合は、それらもここに一覧表示されます。
+
+<figure><img src="../../../.gitbook/assets/se-order-cancelled-3.png" alt=""><figcaption></figcaption></figure>

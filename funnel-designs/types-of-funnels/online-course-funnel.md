@@ -1,5 +1,7 @@
 # オンラインコースファネル
 
+<figure><img src="../../.gitbook/assets/fd-online-course-1.png" alt=""><figcaption></figcaption></figure>
+
 ## オンラインコースファネルとは
 
 オンラインコースファネルは、見込み受講者を惹きつけ、コースへの申し込みから受講開始までを導くためのマーケティング戦略です。主に次の4つのステップで構成されます。
@@ -18,6 +20,8 @@
 
 この4つのステップに沿うことで、見込み受講者を惹きつけ、コース修了まで導く、シームレスで効果的なオンラインコースファネルを作成できます。
 
+<figure><img src="../../.gitbook/assets/fd-online-course-2.png" alt=""><figcaption></figcaption></figure>
+
 ### ファネルの概要
 
 このファネルは、次のステップで構成されます。
@@ -28,6 +32,8 @@
 * コースコンテンツ
 
 ### ランディングページ
+
+<figure><img src="../../.gitbook/assets/fd-online-course-3.png" alt=""><figcaption></figcaption></figure>
 
 ランディングページは多くの要素で構築されており、それらはコンテナ内に配置されています。ここでの主な目的はリードの獲得です。次のステップに進んでもらえるよう、行動を促すのに十分な情報を提供します。
 
@@ -45,14 +51,24 @@
 
 訪問者がランディングページのボタンをクリックすると、次のステップとして商品が表示される注文ページに移動します。
 
+<figure><img src="../../.gitbook/assets/fd-online-course-4.png" alt=""><figcaption></figcaption></figure>
+
 この注文ページの例では、2ステップチェックアウトを採用しています。訪問者は支払いステップに進む前に、まず個人情報を入力します。この構成は自由に変更できます。2ステップチェックアウトを採用する理由は、途中で離脱した場合でも、カート放棄のフォローアップやメールなどのオートメーションキャンペーンで後追いできるためです。
+
+<figure><img src="../../.gitbook/assets/fd-online-course-5.png" alt=""><figcaption></figcaption></figure>
 
 また、このファネルでは、商品を直接カートに追加し、アイテムが追加された状態のままチェックアウトに進めるボタンも使用しています。ユーザーがボタンをタップすると、アイテムが自動的にカートに追加されます。
 
+<figure><img src="../../.gitbook/assets/fd-online-course-6.png" alt=""><figcaption></figcaption></figure>
+
 ### サンキューページ
+
+<figure><img src="../../.gitbook/assets/fd-online-course-7.webp" alt=""><figcaption></figcaption></figure>
 
 前述のとおり、ユーザーがチェックアウトを正常に完了すると、サンキューページにリダイレクトされます。このページでは購入を確定し、次のステップの詳細を案内し、追加のリソースやボーナスを提供するとよいでしょう。他のコースや関連商品をアップセルする機会にもなります。さらに、受講者がコースを始めやすくなるよう、コースモジュールへのナビゲーションを含めることをおすすめします。
 
 ### コースページ
+
+<figure><img src="../../.gitbook/assets/fd-online-course-8.webp" alt=""><figcaption></figcaption></figure>
 
 ファネルの最終ステップは、実際のコースコンテンツです。ここで受講者はコース教材にアクセスし、学習を開始します。コースが魅力的でインタラクティブ、かつ迷わず進められる構成であることが重要です。定期的なフィードバック、評価、クイズは、受講者のモチベーション維持に役立ちます。

@@ -10,3 +10,5 @@
 * **デフォルトメールを無効化** — デフォルトの代わりに、カスタマイズした自分のバージョンを送信するように切り替えます。
 
 これにより、メールコミュニケーションをより柔軟に、よりパーソナライズされたものにできます。
+
+<figure><img src="../../../.gitbook/assets/system-email-templates-1.png" alt=""><figcaption></figcaption></figure>

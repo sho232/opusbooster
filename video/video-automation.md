@@ -24,6 +24,8 @@
 
 視聴者の行動に対して、ちょうどよいタイミングで反応する**ターゲットを絞ったエンゲージメント**が実現できます。
 
+<figure><img src="../.gitbook/assets/video-automation-1.png" alt=""><figcaption></figcaption></figure>
+
 ### 基本トリガーのクイックセットアップ
 
 **「ビデオ開始」**や**「ビデオ完了」**のようなシンプルなトリガーは、設定も簡単です。
