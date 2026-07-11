@@ -5,7 +5,7 @@ description: 4本の動画シリーズを数日間かけて配信して販売す
 # 商品ローンチファネル（Product Launch Funnel）
 
 {% hint style="info" %}
-商品ローンチファネル(PLF)は、マーケター Jeff Walker(ジェフ・ウォーカー)が「Product Launch Formula」として体系化した、**動画シリーズを数日間にわたって配信する**形のプレゼンテーションファネルです。Jeff Walker はこれを「横倒しのセールスレター(sideways sales letter)」と呼び、Russell Brunson(ラッセル・ブランソン)は「横倒しのパーフェクトウェビナー」とも表現しています。セールスの内容を複数日に分けて受け取ってもらうことで、1本の動画では作れない信頼と熱量を高めてからオファーを提示します。
+商品ローンチファネル(PLF)は、マーケター Jeff Walker(ジェフ・ウォーカー)が「Product Launch Formula」として体系化した、**動画シリーズを数日間にわたって配信する**形のプレゼンテーションファネルです。「横倒しのセールスレター(sideways sales letter)」とも呼ばれ、セールスの内容を複数日に分けて受け取ってもらうことで、1本の動画では作れない信頼と熱量を高めてからオファーを提示します。
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/plf-overview.png" alt=""><figcaption></figcaption></figure>
