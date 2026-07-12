@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👏 ようこそ](README.md)
+* [🗺️ 目的別サクセスマップ](success-map.md)
 
 ## プラットフォーム <a href="#platform" id="platform"></a>
 
