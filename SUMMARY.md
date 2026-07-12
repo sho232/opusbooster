@@ -2,6 +2,7 @@
 
 * [👏 ようこそ](README.md)
 * [🗺️ 目的別サクセスマップ](success-map.md)
+* [✅ 最初の7日間チェックリスト](first-7-days.md)
 
 ## プラットフォーム <a href="#platform" id="platform"></a>
 
@@ -251,6 +252,7 @@
 
 * [ロードマップ](extra/roadmap.md)
 * [バグフィックス](extra/bug-fixes.md)
+* [🔧 よくあるつまずきと解決方法](extra/troubleshooting.md)
 * [サポート](extra/getting-support.md)
 * [よくある質問](extra/faq.md)
 * [利用規約](extra/terms-of-service.md)
