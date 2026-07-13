@@ -140,7 +140,7 @@
 ## ブログ <a href="#blog" id="blog"></a>
 
 * [ブログを始める](blog/starting-a-blog.md)
-* [高品質記事生成AIの使い方](blog/premium-article-generator.md)
+* [ブログ集客AIの使い方](blog/premium-article-generator.md)
   * [AIプロフィール設定の使い方](blog/ai-profile-settings.md)
 * [初期設定と基本手順](blog/getting-started/README.md)
   * [ブログのヘッダー／サイドバー設定](blog/getting-started/blog-header-and-sidebar-settings.md)

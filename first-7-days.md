@@ -68,7 +68,7 @@ DNSの反映には数時間〜最大48時間かかることがあります。す
 **今日のゴール: コンテンツ発信の仕組みを動かし、自分のゴールへの道筋を決める**
 
 * [ ] [AIプロフィール設定](blog/ai-profile-settings.md)を済ませる（最初の一度だけ。以降のAI記事生成すべてに効きます）
-* [ ] [高品質記事生成AI](blog/premium-article-generator.md)で最初の記事を1本作ってみる
+* [ ] [ブログ集客AI](blog/premium-article-generator.md)で最初の記事を1本作ってみる
 * [ ] [目的別サクセスマップ](success-map.md)で、自分のゴールに合わせた次のステップを確認する
 
 ---
