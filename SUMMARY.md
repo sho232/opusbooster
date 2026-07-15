@@ -11,6 +11,7 @@
   * [ビルダーでページを編集する方法](platform/getting-started/edit-pages-in-builder.md)
   * [フッター - 使い方と編集方法](platform/getting-started/footer.md)
   * [カスタムドメインの接続](platform/getting-started/custom-domain.md)
+  * [Google Search Consoleに登録する](platform/getting-started/google-search-console-setup.md)
 * [ウェブサイト＆ファネルビルダー](platform/website-funnel-builder/README.md)
   * [ダッシュボード概要](platform/website-funnel-builder/dashboard-overview.md)
   * [新規ページの追加](platform/website-funnel-builder/add-pages.md)
