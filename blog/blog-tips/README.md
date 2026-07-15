@@ -2,6 +2,12 @@
 
 ブログでの検索流入・記事作りにまつわる考え方や、ありがちな失敗、成功のためのノウハウをまとめたコラム集です。
 
+### マーケティングが本業じゃない人へ
+
+* [「宣伝っぽくて苦手」を乗り越える考え方](promotion-doesnt-have-to-feel-pushy.md)
+* [「ネタがない」は、実は思い込みです](your-craft-is-already-the-content.md)
+* [マーケティングの完璧さより、本業の時間を守る](marketing-shouldnt-eat-your-main-craft-time.md)
+
 ### 検索流入の基本
 
 * [書いた記事、ちゃんとGoogleに見つけてもらえていますか?](google-not-finding-your-articles.md)
