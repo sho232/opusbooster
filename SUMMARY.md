@@ -146,6 +146,7 @@
   * [ドリーム100キーワードの使い方](blog/dream-100-keywords.md)
     * [ドリームキーワードの選び方とロングテールの活かし方](blog/dream-100-keywords-strategy.md)
   * [ブログ集客AIをもっと使いこなす](blog/premium-article-advanced-features.md)
+  * [シリーズ機能と次回予告（Open Loop）の使い方](blog/series-and-open-loop.md)
   * [公開したあとの成果を見る](blog/premium-article-performance.md)
 * [ブログ集客のヒント](blog/blog-tips/README.md)
   * [「宣伝っぽくて苦手」を乗り越える考え方](blog/blog-tips/promotion-doesnt-have-to-feel-pushy.md)

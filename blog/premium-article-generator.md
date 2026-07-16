@@ -139,6 +139,8 @@ CTAの誘導先も、AIに提案してもらえます。「**🎯 誘導先をAI
 
 <figure><img src="../.gitbook/assets/premium-article-step4-cta.jpg" alt=""><figcaption>ステップ4の詳細設定画面。CTAの誘導先候補が3件、理由つきで提案されています</figcaption></figure>
 
+画面の一番下には「**シリーズ設定（任意）**」もあります。記事をシリーズものにして、読者を次の記事まで連れていきたい場合は、[シリーズ機能と次回予告（Open Loop）の使い方](series-and-open-loop.md)をご覧ください。
+
 設定できたら「**記事を生成**」をクリックします。
 
 ### ステップ5｜AIインタビュー（柱①・ここが差別化）
