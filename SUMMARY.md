@@ -143,6 +143,7 @@
 * [ブログを始める](blog/starting-a-blog.md)
 * [ブログ集客AIの使い方](blog/premium-article-generator.md)
   * [AIプロフィール設定の使い方](blog/ai-profile-settings.md)
+  * [ドリーム100キーワードの使い方](blog/dream-100-keywords.md)
   * [ブログ集客AIをもっと使いこなす](blog/premium-article-advanced-features.md)
   * [公開したあとの成果を見る](blog/premium-article-performance.md)
 * [ブログ集客のヒント](blog/blog-tips/README.md)
