@@ -149,5 +149,5 @@ A: これまでにシリーズ名を付けた記事が1本もない場合は表�
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
-[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+[AI機能の全体像](https://opusbooster.com/ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
 {% endhint %}
