@@ -66,3 +66,12 @@ description: 見込み客のメールアドレスを獲得する2ステップの
 この例では、ランディングページの目的は将来のプロモーションに向けてリードを獲得し、メールリストを構築することでした。あわせてコミュニティにも参加してもらえるように、CTAボタンにコミュニティ参加用のリンクを設定しています。
 
 <figure><img src="../../.gitbook/assets/fd-lead-generation-4.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

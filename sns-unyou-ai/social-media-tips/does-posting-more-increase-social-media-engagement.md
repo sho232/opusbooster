@@ -70,3 +70,12 @@ SNS運用AIのようなツールを使えば、コンテンツの計画・予約
 投稿頻度そのものを増やすよりも、価値のあるコンテンツを継続的に投稿するほうが、多くの場合より高いエンゲージメントにつながります。
 
 ご質問や不明点があれば、いつでもお気軽にお問い合わせください。楽しい運用を!
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

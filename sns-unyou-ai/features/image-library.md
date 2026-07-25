@@ -32,3 +32,12 @@ description: 投稿に使う画像をまとめて管理する画像ライブラ�
 ## 画像の関連度(バリエーションの改善)
 
 画像には「関連度」という考え方があり、SNS運用AIはあまり使われていない画像を優先的に選ぶようになっています。直近で使用した画像はしばらくの間選ばれにくくなるため、同じストック画像が繰り返し使われることが減り、投稿全体のバリエーションが向上します。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

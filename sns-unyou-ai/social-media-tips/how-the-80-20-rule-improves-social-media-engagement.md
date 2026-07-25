@@ -38,3 +38,12 @@ SNS運用における「80/20の法則」とは、投稿全体の80%を「価値
 ## 5. コンテンツを事前に計画する
 
 コンテンツは週単位・月単位のカレンダーであらかじめ計画しておくのがおすすめです。SNS運用AIのようなスケジューリングツールを使えば、この計画づくりと実行がぐっと楽になります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

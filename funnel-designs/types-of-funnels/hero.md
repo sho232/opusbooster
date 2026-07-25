@@ -52,3 +52,12 @@ description: 複数のリンクを1ページにまとめるSNSプロフィール
 {% hint style="info" %}
 **注意：** ファネルデザインのどの要素も、お好みに合わせて自由に編集できます。
 {% endhint %}
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

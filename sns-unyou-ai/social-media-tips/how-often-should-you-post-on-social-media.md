@@ -50,3 +50,11 @@ SNS運用AIのようなスケジューリングツールも、この運用を助
 
 **ポイント:** 毎日投稿してすぐに息切れしてしまうより、週2〜3回のペースを一貫して続けるほうが、結果的に良い成果につながります。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

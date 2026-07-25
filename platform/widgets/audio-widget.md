@@ -13,3 +13,12 @@
 音声ウィジェットの設定はとても簡単です。まず、設定タブを選択し、ファイルや曲の名前とアーティスト名を付け、テーマをライトモードかダークモードに設定し、自動再生のオン/オフを設定し、最後に[ファイルマネージャー](../website-funnel-builder/file-manager.md)からオーディオファイルを選択します。
 
 <figure><img src="../../.gitbook/assets/audio settings.PNG" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

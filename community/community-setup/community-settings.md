@@ -21,3 +21,12 @@ icon: gear
 ![](../../.gitbook/assets/ob_circle_page_template.png)
 
 システムページでは、ウィジェット・ブロック・コンテナの追加などを通じて、コミュニティの主要レイアウトページのデザインを変更できます。**注意**：ページやコースを追加するといったコミュニティ／サークル自体のコンテンツ編集はここでは行いません。コンテンツの追加・編集は、該当するサークルを編集する際に行ってください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -65,3 +65,12 @@ description: 電子書籍などのデジタル商品を配布・販売するデ�
 <figure><img src="../../.gitbook/assets/fd-digital-download-5.png" alt=""><figcaption></figcaption></figure>
 
 ユーザーがチェックアウトを正常に完了すると、サンキューページにリダイレクトされます。このページでは購入を確定し、次のステップの詳細を案内し、追加のリソースやボーナスを提供するとよいでしょう。他のコースや関連商品をアップセルする機会にもなります。さらに、サンキューページには、デジタルファイルをダウンロードするためのCTAボタンを必ず含めましょう。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

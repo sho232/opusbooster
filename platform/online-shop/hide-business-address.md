@@ -27,3 +27,12 @@
 また、**非公開としている場合でも商品を発送する際は、**&#x767A;送元はOffice Lacroix合同会社の電話番号ではなく、**ショップオーナー自身の電話番号を使用していただく必要がございます。**
 
 ※お客様から返品のご依頼や、その他お取引きの際に問い合わせやご要望があった場合、非公開に設定していたとしても、ショップの所在地および連絡先を開示する必要があります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

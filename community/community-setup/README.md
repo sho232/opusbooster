@@ -17,3 +17,12 @@ description: コミュニティを作成するには、上部ナビゲーショ�
 新しいサークルを追加するには、「＋ サークルを追加」ボタンをクリックします。ボタンを押したら、サークル名を入力して［保存］をクリックしてください。これで新しいサークルが作成されます。
 
 ![](../../.gitbook/assets/ob_create_a_new_circle.png)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

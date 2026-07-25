@@ -19,3 +19,12 @@
 アップロードされた画像やファイルには、それぞれ**URLリンクが生成**されます。ネットショップでダウンロード可能なファイルを追加したい場合は、そのリンクを使用することができます。画像やファイルのURLリンクを使用する際には、多くのオプションが用意されています。
 
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FrvfkKixToPZ7bGV5ad1I%2Ffile%20link.PNG?alt=media\&token=370314fc-4dee-4c3c-a905-d5a9d4702bfd)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

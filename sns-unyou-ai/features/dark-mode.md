@@ -37,3 +37,12 @@ SNS運用AIのアカウントの設定メニューに移動します。
 新しいダークモード機能を楽しんでいただけたら幸いです。ご質問やお困りごとがあれば、いつでもサポートチームまでお気軽にご連絡ください。
 
 更新日: 2024年7月17日
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -24,3 +24,12 @@
 ## まとめ
 
 正確な手順は大前提として大切ですが、それだけでは読者の背中を押せません。手順の前後に、自分自身の経験というひとさじの物語を添えることで、記事は「読み物」から「行動につながるガイド」に変わります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

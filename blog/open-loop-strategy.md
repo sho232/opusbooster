@@ -98,3 +98,12 @@ description: 「1回読んで終わり」のブログを「また読みに来る
 ## まとめ
 
 答えを全部出し切らず、少しだけ次への期待を残しておく。これがオープンループの基本の考え方です。まずは1つのテーマを3〜5本の連載として組み立て、[シリーズ機能と次回予告（Open Loop）の使い方](series-and-open-loop.md)で実際に次回予告を入れながら、書き進めてみてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

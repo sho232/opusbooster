@@ -37,3 +37,12 @@ SNS運用AIを使うことで、整理・予約投稿・キャプション生成
 ## まとめ
 
 シンプルでわかりやすいコンテンツ戦略があれば、SNS運用はより効果的で、かつ管理しやすいものになります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

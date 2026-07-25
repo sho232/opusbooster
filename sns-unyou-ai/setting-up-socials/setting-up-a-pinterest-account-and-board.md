@@ -22,3 +22,12 @@
 4. 同じ手順を繰り返して、必要な数だけボードを作成します。
 
    ![ボード追加画面](https://storage.crisp.chat/users/helpdesk/website/1de1cb83edbcfb00/b42-add-board_e2khmk.jpg)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

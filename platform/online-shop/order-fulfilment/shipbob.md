@@ -19,3 +19,12 @@ ShipBob連携を使うと、管理の主導権を手放すことなくフルフ�
 <figure><img src="../../../.gitbook/assets/shipbob-2.png" alt=""><figcaption></figcaption></figure>
 
 これで、ネットショップとShipBobの連携は完了です。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

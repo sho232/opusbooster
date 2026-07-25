@@ -89,3 +89,12 @@ description: メールキャンペーン（メルマガの送信）の設定
 特定の購読者がメール キャンペーンにどのように関与しているかを確認する場合は、CRM/連絡先タブに移動し、購読者を選択してから、以下に強調表示されているようにマーケティングの詳細タブを選択します。
 
 <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

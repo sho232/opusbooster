@@ -97,3 +97,12 @@ DNSの反映には数時間〜最大48時間かかることがあります。す
 ここまでで、サイト・メール・ドメイン・決済・ファネル・発信という6つの土台が揃いました。ここから先は人によって道が分かれます。[目的別サクセスマップ](success-map.md)から、あなたのゴールの章に進んでください。
 
 途中でつまずいたら、[よくあるつまずきと解決方法](extra/troubleshooting.md)と[サポート](extra/getting-support.md)をどうぞ。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

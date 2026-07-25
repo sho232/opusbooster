@@ -39,3 +39,12 @@
 <figure><img src="../../.gitbook/assets/ordertab.png" alt=""><figcaption></figcaption></figure>
 
 これで、カゴ落ち客の最大68.9%を取り戻す準備が整いました！
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -44,3 +44,12 @@ SNS運用AIでは、Instagramのストーリーズ投稿にも対応していま
 - 事前に計画を立て、内容に合った投稿形式(ストーリーズ or 通常投稿)を選びましょう
 - 大切なストーリーズは「ストーリーズハイライト」に残しておくと、24時間を過ぎても見てもらえます
 - ストーリーズと通常投稿を組み合わせることで、フォロワーに飽きさせない多様な見せ方ができます
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

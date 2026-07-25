@@ -71,3 +71,12 @@ description: オンラインイベント（サミット）の集客用ファネ�
 前述のとおり、参加者が登録と支払いを完了すると、サンキューページに移動します。このページは登録を確定し、サミットへのアクセス方法に関する案内を受け取るためにメールを確認するよう促すコールトゥアクション（CTA）を提供します。
 
 <figure><img src="../../.gitbook/assets/fd-summit-6.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

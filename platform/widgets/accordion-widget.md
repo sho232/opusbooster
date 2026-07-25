@@ -19,3 +19,12 @@
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2F7Xl4VbrsWAM2WXW1CfJW%2Fsendly%20accordian%20stly.PNG?alt=media\&token=6c14332a-ba2e-4ce0-a692-27ef073781bd)
 
 AIライティング機能が有効なプランでは、ページの内容に合ったQ\&Aを自動生成することも可能です。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

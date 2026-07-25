@@ -100,3 +100,12 @@
 
 上記のご入力が完了しましたら、画面下部の【変更内容を保存】ボタンを押してください。\
 以上で特定商取引法に基づく表記の登録が完了となります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

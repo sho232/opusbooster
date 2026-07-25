@@ -90,3 +90,12 @@ eコマースアイテムを追加するには、Facebookのビジネスペー�
 新しい在庫をショップに追加すると、人々はニュースフィードやFacebookショップタブでそれを見ることができ、ショップへの訪問を促す通知を受け取ることができます。
 
 ショップは、FacebookとInstagramで統一された存在感を提供します。ショップのカスタマイズ機能は、アプリファミリー全体で統一されています。つまり、InstagramプロフィールとFacebookページの両方からアクセスできるショップがある場合、コレクションはInstagramとFacebookの両方で表示される可能性があります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -189,3 +189,12 @@ icon: chart-tree-map
 * 投稿やコメントが全体のレイアウトに溶け込む、シームレスなユーザー体験を実現します。
 
 適切なテーマの選択はあなたの通常の背景色に依存し、投稿セクションがサイトのデザインを引き立てるようにします.
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

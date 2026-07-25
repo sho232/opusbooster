@@ -42,3 +42,12 @@
 目標を設定することで、自動化が成功したかどうかを判断することができます。購読者が特定のゴールに到達すると、OpusBoosterそれを成功とみなし、アナリティクスダッシュボードにゴールとして登録します。設定したゴールに到達したユーザーは、そのオートメーションから削除されます。
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2022-12-26 20.26.44.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

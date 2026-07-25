@@ -25,3 +25,12 @@
 ---
 
 **関連記事:** 投稿デザインの編集、クライアント設定、レビュープロセス、ダークモードなど、その他のSNS運用AIの機能についてはヘルプデスク内の各記事をご覧ください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -21,3 +21,12 @@
 ## まとめ
 
 書き続けられないのは、意志が弱いからではなく仕組みが重いからです。完璧主義を手放し、下書きの負担を軽くし、無理のないペースに調整する。この3つを見直すだけで、続けやすさは大きく変わります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

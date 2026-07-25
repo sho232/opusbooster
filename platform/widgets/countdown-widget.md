@@ -45,3 +45,12 @@
 また、いつものように、あなたのブランドに合ったスタイリングに編集することができます。
 
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2Fe0qF2h8DCnbXTLF2poBi%2Fcountdown%20styling.PNG?alt=media\&token=c5bf77c9-8fc2-43b2-8822-6d57e359e8ba)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

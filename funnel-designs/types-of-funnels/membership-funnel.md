@@ -98,3 +98,12 @@ description: 会員制コンテンツへの入会を促すメンバーシップ�
 サイト・ファネル内のすべての会員は、自分専用の会員管理エリアにもアクセスできます。
 
 ここでは、個人情報の更新、会員限定エリアへのアクセス、購入した商品やダウンロードの確認など、さまざまな管理を行えます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

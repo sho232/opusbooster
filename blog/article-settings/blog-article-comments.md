@@ -50,3 +50,12 @@
 ブログ設定でメンバーコメントを有効にすると、コミュニティ内での「濃い交流」や「意味のあるやりとり」を育てやすくなります。
 
 ![コメントウィジェット](../../.gitbook/assets/Comment.png)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}
