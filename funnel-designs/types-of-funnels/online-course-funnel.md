@@ -76,3 +76,12 @@ description: オンラインコースの販売から受講までの動線を作�
 <figure><img src="../../.gitbook/assets/fd-online-course-8.webp" alt=""><figcaption></figcaption></figure>
 
 ファネルの最終ステップは、実際のコースコンテンツです。ここで受講者はコース教材にアクセスし、学習を開始します。コースが魅力的でインタラクティブ、かつ迷わず進められる構成であることが重要です。定期的なフィードバック、評価、クイズは、受講者のモチベーション維持に役立ちます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

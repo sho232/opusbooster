@@ -101,3 +101,12 @@ A: しばらく待ってからもう一度「**🌱 100キーワードに展開*
 ドリーム100が揃ったら、「**💡 次のテーマ提案**」を開いて、まずは1本、未使用キーワードのテーマから書き始めてみましょう。詳しい記事作成の流れは[ブログ集客AIの使い方](premium-article-generator.md)で解説しています。
 
 「そもそもどんなキーワードを選べばいいか」「ロングテールをどう記事にしていくか」をもっと詳しく知りたい方は、[ドリームキーワードの選び方とロングテールの活かし方](dream-100-keywords-strategy.md)もあわせてご覧ください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

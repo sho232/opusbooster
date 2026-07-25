@@ -176,3 +176,11 @@ OpusBoosterのコミュニティ機能がさらに充実！メンバー同士の
 * メールマーケティング - 連絡先を一括で配信停止できる機能を追加しました。
 * すべてのプランで会員数が無制限になりました。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

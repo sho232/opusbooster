@@ -41,3 +41,12 @@ description: メールリスト登録に特化したオプトインファネル�
 最後のステップでは、購入を確定し、感謝の気持ちを伝えます。このページでは購入へのお礼を伝えるとともに、類似の商品やサービスに関する追加のリソースやおすすめを提供するとよいでしょう。メールリストへの登録やコミュニティへの参加など、継続的な顧客関係の構築につながる次のアクションを提示します。
 
 <figure><img src="../../.gitbook/assets/fd-opt-in-9.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

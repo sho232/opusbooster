@@ -89,3 +89,12 @@ description: ウェビナーの集客・登録・リプレイ視聴までをカ�
 ウェビナーを開催した後は、見逃した人向けの再視聴用、あるいは販売促進用としてリプレイを公開したいケースが多くあります。リプレイページの構成は非常にシンプルで、動画の埋め込みと、コミュニティ参加への行動喚起で構成されています。必要に応じて、販売したい商品を埋め込むこともできます。
 
 <figure><img src="../../.gitbook/assets/fd-webinar-6.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

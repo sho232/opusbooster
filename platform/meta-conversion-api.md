@@ -62,3 +62,12 @@ Metaピクセルの追加に成功すると、今度は商品フィードのURL�
 ![](<../.gitbook/assets/スクリーンショット 2024-09-03 21.06.00.png>)
 
 **これで完了です！**&#x46;acebook設定を保存すれば完了です。今後、イベントは自動的にレポートされます。ウェブサイト上で発生したイベントは、ピクセル統計に表示されるまでに約20分かかることを覚えておいてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

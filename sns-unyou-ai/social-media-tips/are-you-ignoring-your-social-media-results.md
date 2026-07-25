@@ -36,3 +36,11 @@ SNS運用AIを使うことで、SNSや投稿の分析結果を見たり、投稿
 
 分析を定期的に振り返ることは、より良い判断につながり、時間をかけてSNSの成果を改善していく助けになります。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

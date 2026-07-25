@@ -27,3 +27,12 @@
 次に、顧客を[メールマーケティングリスト](../email-and-automation/email-lists.md)に追加します。これはオプションで、顧客が寄付をしたときに、特定のメールリストに追加するかどうかを設定します。
 
 **サンキューページ**： お客様が寄付をした後の動作を設定します。シンプルなお礼のメッセージを表示したり、ウェブサイト内の特定のページや外部URLに誘導したりすることができます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

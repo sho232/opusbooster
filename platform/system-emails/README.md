@@ -22,3 +22,12 @@ description: 注文確認や会員登録承認など、自動送信されるシ�
 * [サブスクリプション更新失敗](system-email-templates/subscription-failed-to-renew.md)
 * [コミュニティでのメンション](system-email-templates/community-mention.md)
 * [あなたへの返信](system-email-templates/replied-to-you.md)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

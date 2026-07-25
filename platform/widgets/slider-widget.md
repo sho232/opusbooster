@@ -35,3 +35,12 @@
 新しい編集ボックスが表示されました。新規レイヤーとして追加したいテキストを入力します。フォントのスタイルや色、アニメーションを設定すれば完成です。
 
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FoV6cM7VG0E6VTyyWeckT%2Fslider%20add%20font.PNG?alt=media\&token=fe46cb26-ec64-473f-a595-664133fe412d)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

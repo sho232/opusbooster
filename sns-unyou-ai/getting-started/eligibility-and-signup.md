@@ -15,3 +15,12 @@ SNS運用AIは、**Expandプラン以上**でご利用いただける機能で�
 3. 申し込みが完了すると、SNS運用AIの機能がご利用いただけるようになります。
 
 対象プランをご契約でない場合は、先にプランのアップグレードが必要です。プランの詳細やアップグレード方法については、サポートチームまでお問い合わせください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

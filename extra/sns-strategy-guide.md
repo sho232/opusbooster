@@ -955,3 +955,12 @@ OpusBoosterを活用すれば、ブランドやビジネスに最適化された
 #### 一貫性と最適化の維持
 
 AIによる支援で投稿のブレを防ぎ、常に一定のクオリティと頻度を保てる。アルゴリズムのトレンド変化にも対応した最適なコンテンツ提案が得られるため、SNSプラットフォーム上で高いエンゲージメントを維持し続けることが可能になる。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

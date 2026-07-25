@@ -28,3 +28,12 @@ Shippoでは料金を比較して最適な配送オプションを選べるた�
 接続が完了すると、チェックアウト画面にShippoの配送オプションが自動的に表示され、配送料は注文の概要にあらかじめ反映されます。
 
 <figure><img src="../../../.gitbook/assets/shippo-5.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

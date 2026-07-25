@@ -79,3 +79,12 @@ UTMについて詳しくは[追跡リンク](../online-shop/tracking-links.md)�
 💡 これらのインサイトを活用して、成果の高いものに注力し、オファーの構成を磨き込み、成果の出ていないものを整理しましょう。
 
 <figure><img src="../../.gitbook/assets/sales-tracking-4.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -100,3 +100,12 @@
 1. アップセルを作成する場合と同じように、上記手順１〜３を実行します。
 2. ダウンセルオファーとコール・トゥ・アクションボタンをカスタマイズします。
 3. ダウンセルを保存すると、アップセルのステップの下に表示されます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

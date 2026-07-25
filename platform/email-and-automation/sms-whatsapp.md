@@ -177,3 +177,12 @@ SMSと同様に、WhatsAppメッセージでは**添付ファイル（画像フ�
 メッセージングチャネルを選択したら、**新しいメッセージを作成**するか、WhatsAppの場合は以前に保存した[テンプレート](#whatsappテンプレート)を使用できます。
 
 <figure><img src="../../.gitbook/assets/sms-whatsapp-18.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -79,3 +79,12 @@ OTO 1で「いいえ」が選ばれた場合(または購入後)に表示され�
 OpusBoosterのテンプレートでは、サンキューページに動画埋め込みウィジェットと、次の商品へのリンクやカレンダー予約ボタンを配置することで、この構造をそのまま再現できます。
 
 <figure><img src="../../.gitbook/assets/tripwire-thankyou.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

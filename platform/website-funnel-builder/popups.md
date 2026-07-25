@@ -77,3 +77,12 @@
 * ポップアップウィンドウのパディング（余白）
 
 ![](https://buildersupport.gitbook.io/~gitbook/image?url=https%3A%2F%2F3435513056-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FdG2nDIBweqHNGjfJ4NQm%252Fuploads%252F3mZTBx4DsiYvwopDsbgc%252FSDF554.PNG%3Falt%3Dmedia%26token%3D7d139afe-6055-4823-ad75-4845d64bbcba\&width=768\&dpr=4\&quality=100\&sign=1ee9f2de\&sv=1)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

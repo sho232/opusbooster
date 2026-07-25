@@ -19,3 +19,12 @@
 次に、以下のようにソースコードボックスに直接コードを追加してください。
 
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FbJ4qBUuhEaYwyqv67zb6%2FEDIT%20CODE.PNG?alt=media\&token=5e76a440-6b21-4f04-b26c-39d3c1af02ec)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -44,3 +44,12 @@ A. [サポート](getting-support.md)からお気軽にご相談ください。�
 * 「何から手をつければいいか」は[目的別サクセスマップ](../success-map.md)へ
 * 「残りの期間で何を進めるか」は[最初の7日間チェックリスト](../first-7-days.md)へ
 * その他のご質問は[よくある質問](faq.md)と[サポート](getting-support.md)へどうぞ
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

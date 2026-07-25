@@ -142,3 +142,12 @@ A: これまでにシリーズ名を付けた記事が1本もない場合は表�
 記事のテーマそのものの決め方は[ブログ集客AIの使い方](premium-article-generator.md)を、より戦略的にテーマを積み上げていく方法は[ドリーム100キーワードの使い方](dream-100-keywords.md)を参照してください。
 
 「そもそもなぜ次回予告が効くのか」「連載をどう組み立てれば読者が離れないか」をもっと詳しく知りたい方は、[オープンループ戦略の組み立て方](open-loop-strategy.md)もあわせてご覧ください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

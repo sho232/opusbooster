@@ -27,3 +27,12 @@ Makeの仕組みを理解するには、まずAPIとは何かを知る必要が�
 Makeは、これらの複雑なAPIをコードなしで利用できるよう、シンプルなブロックに変換し、ドラッグ＆ドロップで簡単に接続できるようにしています。Makeではこれらのブロックを「モジュール」、それらの間の視覚的な接続を「シナリオ」と呼んでいます。
 
 一度設定すれば、Makeは24時間365日稼働し続けます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -51,3 +51,12 @@ description: OpusBoosterでよくある3つのつまずき（メールが届か�
 3. **何をしようとして、どう操作したか**（例: 「商品Aの購入ボタンを押したら〜というエラーが出た」）
 
 自分で設定を進めるのが難しいと感じたら、Zoomでのサポートや構築の代行についてもお気軽にご相談ください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

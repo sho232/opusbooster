@@ -21,3 +21,12 @@ description: ストア商品、会員制グループなどに割引を追加す�
 ポップアップウィンドウの下部には、割引を適用する場所を選択することができます。製品、バリエーション、または割り当てられた会員グループを選択するだけです。
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-05-07 20.31.51.png" alt="" width="375"><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

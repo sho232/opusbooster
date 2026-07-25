@@ -97,3 +97,12 @@ OpusBoosterでは、ネットショップ（オンラインストア）を簡単
 商品にタグを追加し、顧客が購入すると、そのタグが顧客のプロフィールに追加されます。フォローアップオートメーションやメールキャンペーンの設定に最適です。
 
 ![](https://tawk.link/5fdb9abedf060f156a8e15f1/kb/attachments/BsY4e_eTxv.png)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

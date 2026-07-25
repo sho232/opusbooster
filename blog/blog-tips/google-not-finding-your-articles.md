@@ -19,3 +19,12 @@ OpusBoosterの[ブログ集客AI](../premium-article-generator.md)では、記�
 ## まとめ
 
 「良い記事を書けば、いずれ見つけてもらえる」は半分正解で半分誤解です。良い記事であることと、見つけてもらえる形になっていることは別の話です。書く前に一度、読者の検索の言葉に立ち返ってみましょう。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

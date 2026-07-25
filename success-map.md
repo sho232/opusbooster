@@ -99,3 +99,12 @@ description: やりたいことから逆算してOpusBoosterの使い方を探�
 * 設定がうまく動かないときは[よくあるつまずきと解決方法](extra/troubleshooting.md)へ
 * 機能の探し物は[よくある質問](extra/faq.md)へ
 * 解決しないときは[サポート](extra/getting-support.md)からお気軽にどうぞ。自分で設定を進めるのが大変な場合は、Zoomでのサポートや構築の代行についてもご相談いただけます
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

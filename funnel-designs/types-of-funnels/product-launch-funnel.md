@@ -119,3 +119,12 @@ description: 4本の動画シリーズを数日間かけて配信して販売す
 一方で、すでにライブで90分話すことに慣れている場合は、1回で完結するウェビナーファネルの方が立ち上げが速い、という使い分けが一般的です。
 
 OpusBoosterの商品ローンチファネルテンプレートは、この「4本の動画+注文フォーム」の構造をそのまま実装するためのものです。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

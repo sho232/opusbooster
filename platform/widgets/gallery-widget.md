@@ -19,3 +19,12 @@
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FXlEZ8RpKQmdmXVclWW1L%2Fgallery%20stlying.PNG?alt=media\&token=13792c09-4e66-41ef-8496-8939255a5997)
 
 カルーセルを選択した場合、ナビゲーションアローを表示することで、訪問者が手動で画像をスクロールしたり、時間に応じて自動的にスライドを変更することができます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

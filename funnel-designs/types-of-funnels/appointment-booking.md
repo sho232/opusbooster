@@ -58,3 +58,12 @@ description: 面談や相談の予約を受け付けるアポイントメント�
 <figure><img src="../../.gitbook/assets/fd-appointment-booking-5.png" alt=""><figcaption></figcaption></figure>
 
 実施している予約キャンペーンの種類によって、サンキューページに必要な情報は異なります。この予約ファネルの例では、最新の商品ローンチを宣伝して見込み客を獲得することが目的です。CTAボタンにリンクを追加して、参加者をコミュニティへ誘導しています。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -21,3 +21,12 @@
 ## まとめ
 
 SEOは一度覚えれば終わりの「戦術」ではなく、読者への向き合い方という「原則」です。テクニックはあくまで補助線として使い、土台には「読者の役に立っているか」を置いておくと、長く効果が続く記事になります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

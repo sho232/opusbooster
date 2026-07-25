@@ -91,3 +91,12 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 {% content-ref url="challenge-funnel.md" %}
 [challenge-funnel.md](challenge-funnel.md)
 {% endcontent-ref %}
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ファネル機能の全体像](https://opusbooster.com/funnels)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

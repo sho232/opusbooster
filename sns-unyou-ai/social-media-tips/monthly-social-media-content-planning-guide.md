@@ -59,3 +59,11 @@ SNS運用AIのようなツールを使えば、コンテンツを事前に計画
 
 **ポイント:** その月のSNSコンテンツをあらかじめ計画しておくことで、時間を節約しつつ、一貫したプロフェッショナルな存在感を保つことができます。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -24,3 +24,12 @@
 ## まとめ
 
 強い競合記事は「壁」ではなく「答案」です。すでにある人気記事を見本にして、長さ・新しさ・丁寧さ・見やすさの4点で一段積み増す。これだけで、ゼロから書くよりずっと効率よく上位表示を狙えます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

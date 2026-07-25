@@ -17,3 +17,12 @@
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2Fk7QUF52uz2ZG232PJz28%2Fprogres%20bar%20editing.PNG?alt=media\&token=6dc36d15-b1ac-4ede-a841-06025ade2815)
 
 プログレスバーを動的にします。 例: プログレス バーが追加されるページドメインに URL 文字列を追加できます。 これにより、進行状況 % が、設定した URL 文字列パラメーターに自動的に変更されます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

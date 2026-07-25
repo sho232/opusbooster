@@ -17,3 +17,12 @@
 ほとんどの審査は自動的に行われ、メールの送信を再開できるようになると、メールで通知されます。また、メールマーケティングセクションから警告メッセージが削除されると、メールの送信を開始することができます。&#x20;
 
 お客様からさらに情報が必要な場合は、その旨ご連絡いたします。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

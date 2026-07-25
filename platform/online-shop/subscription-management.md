@@ -71,3 +71,12 @@
 * 各サブスクリプションは個別に管理されます。
 * 支払い方法はサブスクリプションごとに保存されるため、サブスクリプションごとに異なる支払い方法を使用できます。
 * サブスクリプションのデータはリアルタイムで更新され、変更を保存するとすぐに反映されます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

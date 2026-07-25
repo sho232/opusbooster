@@ -21,3 +21,12 @@
 ## まとめ
 
 ネタ切れの正体は、たいてい「本業の中にすでにあるネタ」に気づいていないだけです。特別な話題を探しに行くのではなく、今日の練習や制作の中にあった小さな気づきを、そのまま記事にしてみてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

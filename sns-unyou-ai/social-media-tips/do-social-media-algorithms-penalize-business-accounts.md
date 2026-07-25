@@ -71,3 +71,11 @@ SNS運用AIのような予約投稿ツールを使うことで、以下が可能
 
 価値のある、魅力的なコンテンツ作りに集中しましょう。アカウントが個人か法人かよりも、こちらの方がリーチへの影響ははるかに大きいのです。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[SNS運用AIの全体像](https://opusbooster.com/sns-unyou-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

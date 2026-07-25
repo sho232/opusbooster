@@ -65,3 +65,12 @@ FAQセクションには再生成ボタンは付きません。FAQ全体を作�
 情報源の色分けは「どれだけ自分らしい記事になっているか」の確認、部分再生成は「気になった箇所だけの手直し」、ストーリーカバレッジは「物語として伝わるかの最終チェック」に使えます。どれも基本の使い方をひととおり終えたあとで、少しずつ試してみてください。
 
 公開したあとの成果を確認したいときは、[公開したあとの成果を見る](premium-article-performance.md)をご覧ください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

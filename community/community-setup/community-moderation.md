@@ -29,3 +29,12 @@ icon: list-check
 画面右上の設定ボタンから、各モデレーショントピックに「誰として返信するか」を指定できます。たとえば、複数の管理者がいる場合に特定の管理者名義で返信する、といった設定が可能です。
 
 <figure><img src="../../.gitbook/assets/ob_moderation_setting.png" alt=""><figcaption></figcaption></figure>
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -10,3 +10,12 @@ OpusBoosterでは、以下の4つのサービスとの連携に対応してい�
 * **Printful** — プリントオンデマンド商品の生産・発送を代行するサービス
 
 各サービスの接続手順は、それぞれのページで詳しく説明しています。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

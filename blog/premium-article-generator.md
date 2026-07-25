@@ -244,3 +244,12 @@ CTAの誘導先も、AIに提案してもらえます。「**🎯 誘導先をAI
 記事や画像の生成にかかるAI利用料は、現在はキャンペーン期間のため、すべてOpusBoosterの月額料金に含まれています。追加の費用はかかりません。
 
 ただし、今後は記事数の上限またはクレジット制などの制限を導入する予定です。たくさん試したい方は、いまのうちのご利用をおすすめします。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

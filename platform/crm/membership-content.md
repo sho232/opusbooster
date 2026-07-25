@@ -5,3 +5,12 @@
 「ページアクセス」のドロップダウンメニューから「**メンバーのみ**」を選択し、「メンバーグループの選択」をクリックします。次に、ページへのアクセスを許可するグループを選択します。このプロセスは、ファネルステップにも適用されます。
 
 ![](../../.gitbook/assets/image-31.png)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

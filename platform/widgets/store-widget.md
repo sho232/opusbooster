@@ -39,3 +39,12 @@
 * セール品： セール品である場合に表示されます
 * 割引額： アイテムが値段で割引されている場合
 * 割引率：アイテムが一定の値（%）で割引されている場合
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

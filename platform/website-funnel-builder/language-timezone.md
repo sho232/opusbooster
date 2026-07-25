@@ -16,3 +16,12 @@ description: >-
 <figure><img src="../../.gitbook/assets/970e8b9d-a02f-416b-82d3-5fbfb5e3298d_e9ec60c5-ec08-4c3c-b9fa-359a1b49ae78.png" alt=""><figcaption></figcaption></figure>
 
 変更が反映されない場合はページの再読み込みや再ログインをしてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

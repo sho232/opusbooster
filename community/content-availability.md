@@ -76,3 +76,12 @@ Completion-Based Release（コンテンツ開放条件機能）は、\
 {% hint style="info" %}
 注：この設定を正しく機能させるためには、“一つ前のコンテンツ”で『コンテンツ完了を追跡する（Track Content Completion）』を有効にしておく必要があります。今回の例では、「Video 2」へのアクセスを制限するために、「Video 1」のページ設定で『Track Content Completion』をオンにしておきます。こうすることで、「Video 1」を完了したメンバーだけが「Video 2」に進めるようになります。
 {% endhint %}
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

@@ -19,3 +19,12 @@
 ## まとめ
 
 「このキーワード1本で勝負」ではなく、「軸になる言葉から具体的な言い方を広げて、束で狙う」という発想に切り替えるだけで、記事が検索から見つけてもらえる確率はぐっと上がります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

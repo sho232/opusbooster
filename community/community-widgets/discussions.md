@@ -259,3 +259,12 @@ icon: messages
 ![](<../../.gitbook/assets/image (49)>)
 
 サイドバー表示は視覚的に魅力的で、メンバーにとって非常に機能的です。スレッドを画面左側に配置し、メインチャットスレッドを中央に保つことで、ナビゲーションとエンゲージメントを容易にします。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

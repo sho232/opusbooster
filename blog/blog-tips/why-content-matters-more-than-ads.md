@@ -17,3 +17,12 @@
 ## まとめ
 
 広告は即効性があるぶん「借り物」の集客、記事はじっくり効くぶん「積み上がる」集客です。広告だけに依存せず、記事という資産を並行して育てておくことが、これから先の安定した集客につながります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

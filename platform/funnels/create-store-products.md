@@ -13,3 +13,12 @@
 {% hint style="info" %}
 商品を作成すると、通常通り自動的にネットショップに追加されます。必要な場所でいつでもご利用いただけます。ファネルのみで商品を販売したい場合は画面右側の「非表示の商品」にチェックを入れてください。
 {% endhint %}
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

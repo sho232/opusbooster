@@ -25,3 +25,12 @@ DNSへの変更は最大48時間かかることがありますので、ご注意
 {% hint style="danger" %}
 注意：レコードが重複しているとドメインが正しく接続されないので、重複していないことを確認してください。ホスト名/名前として@を持つAレコードとホスト名/名前としてwwwを持つCNAMEレコードを1つだけ持つ必要があります。
 {% endhint %}
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[OpusBoosterの機能全体](https://opusbooster.com/features)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

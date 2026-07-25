@@ -25,3 +25,12 @@
 * [毎週書き続けるのがつらいときに見直すべきこと](when-you-cant-keep-up-the-writing-pace.md)
 * [広告だけに頼らない集客が、これから重要になる理由](why-content-matters-more-than-ads.md)
 * [1本の記事で終わらせない。読者を次へ連れていく工夫](dont-end-with-one-article.md)
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[ブログ集客AIの全体像](https://opusbooster.com/blog-ai)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}
