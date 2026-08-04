@@ -275,6 +275,7 @@
 * [バグフィックス](extra/bug-fixes.md)
 * [🔧 よくあるつまずきと解決方法](extra/troubleshooting.md)
 * [無料トライアル終了後について](extra/after-trial.md)
+* [無料期間中に解約する方法](extra/cancel-during-trial.md)
 * [サポート](extra/getting-support.md)
 * [よくある質問](extra/faq.md)
 * [利用規約](extra/terms-of-service.md)
