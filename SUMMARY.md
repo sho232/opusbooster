@@ -8,6 +8,7 @@
 
 * [はじめに](platform/getting-started/README.md)
   * [ウェブサイトとファネルについて](platform/getting-started/websites-and-funnels.md)
+  * [プロジェクトを切り替える](platform/getting-started/switch-projects.md)
   * [ビルダーでページを編集する方法](platform/getting-started/edit-pages-in-builder.md)
   * [フッター - 使い方と編集方法](platform/getting-started/footer.md)
   * [カスタムドメインの接続](platform/getting-started/custom-domain.md)
