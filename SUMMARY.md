@@ -149,6 +149,7 @@
   * [ブログ集客AIをもっと使いこなす](blog/premium-article-advanced-features.md)
   * [ブログ集客AIでつまずきやすい3つのポイント](blog/premium-article-troubleshooting.md)
   * [シリーズ機能と次回予告（Open Loop）の使い方](blog/series-and-open-loop.md)
+    * [シリーズ記事3本の設計シート](blog/series-worksheet.md)
     * [オープンループ戦略の組み立て方](blog/open-loop-strategy.md)
   * [公開したあとの成果を見る](blog/premium-article-performance.md)
 * [ブログ集客のヒント](blog/blog-tips/README.md)
