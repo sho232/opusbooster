@@ -2,7 +2,7 @@
 
 記事の内容は、概要欄の下にあるドラッグ＆ドロップ式のビルダーで作成できます。ページビルダーと同じように、ブロックやカラムを追加したり、ウィジェットメニューから好きなウィジェットを配置したりできます。
 
-![ビルダー画面１](../../.gitbook/assets/ArticleBasics.png)
+![ビルダー画面１](../../.gitbook/assets/ArticleSettings.jpg)
 
 ![ビルダー画面２](../../.gitbook/assets/Builder-screenshot2.png)
 
@@ -16,9 +16,8 @@
 
 詳しい使い方は[ブログ集客AIの使い方](../premium-article-generator.md)をご覧ください。
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 

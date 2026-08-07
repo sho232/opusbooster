@@ -6,7 +6,7 @@
 
 すると、記事エディターが開きます。
 
-![](../../.gitbook/assets/ArticleBasics.png)
+![](/broken/files/JLQIoACpLvUXdEbNB9MO)
 
 記事エディターでは、次の操作ができます。
 
@@ -41,9 +41,8 @@
 記事エディターを離れる前に、必ず［公開］または［下書き保存］を押してください。
 {% endhint %}
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
