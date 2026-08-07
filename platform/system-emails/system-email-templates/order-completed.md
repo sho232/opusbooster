@@ -21,7 +21,7 @@
 
 システムメールのテンプレートにフィールドを追加したい場合は、テキスト入力中にテキストエディターを選択し、**タグ**アイコンをクリックします。タグアイコンをクリックすると、そのシステムテンプレートに追加できる専用フィールドが一覧表示されます。
 
-<figure><img src="../../../.gitbook/assets/se-order-completed-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/se-new-order-2.png" alt=""><figcaption></figcaption></figure>
 
 ここには、注文完了のシステムメールに割り当てられたすべての専用フィールドが表示されます。
 
@@ -29,9 +29,8 @@
 
 <figure><img src="../../../.gitbook/assets/se-order-completed-3.png" alt=""><figcaption></figcaption></figure>
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 

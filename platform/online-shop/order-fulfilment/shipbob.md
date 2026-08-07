@@ -12,7 +12,7 @@ ShipBob連携を使うと、管理の主導権を手放すことなくフルフ�
 4. 「**連携を追加**」を選択します
 5. 「**ShipBob**」を選択します
 
-<figure><img src="../../../.gitbook/assets/shipbob-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/shippo-3.png" alt=""><figcaption></figcaption></figure>
 
 6. 表示されたポップアップに、ShipBobのAPIキーを貼り付けます
 
@@ -20,9 +20,8 @@ ShipBob連携を使うと、管理の主導権を手放すことなくフルフ�
 
 これで、ネットショップとShipBobの連携は完了です。
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 

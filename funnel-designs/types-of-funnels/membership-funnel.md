@@ -77,7 +77,7 @@ description: 会員制コンテンツへの入会を促すメンバーシップ�
 
 カートチェックアウトオプションを使用すると、前述のとおり、ユーザーがボタンをタップした時点でアイテムが自動的にカートに追加されます。
 
-<figure><img src="../../.gitbook/assets/fd-membership-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fd-opt-in-6.png" alt=""><figcaption></figcaption></figure>
 
 ## サンキューページ
 
@@ -99,9 +99,8 @@ description: 会員制コンテンツへの入会を促すメンバーシップ�
 
 ここでは、個人情報の更新、会員限定エリアへのアクセス、購入した商品やダウンロードの確認など、さまざまな管理を行えます。
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 

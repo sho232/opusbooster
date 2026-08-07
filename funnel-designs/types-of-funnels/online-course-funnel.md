@@ -63,7 +63,7 @@ description: オンラインコースの販売から受講までの動線を作�
 
 また、このファネルでは、商品を直接カートに追加し、アイテムが追加された状態のままチェックアウトに進めるボタンも使用しています。ユーザーがボタンをタップすると、アイテムが自動的にカートに追加されます。
 
-<figure><img src="../../.gitbook/assets/fd-online-course-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fd-opt-in-6.png" alt=""><figcaption></figcaption></figure>
 
 ### サンキューページ
 
@@ -77,9 +77,8 @@ description: オンラインコースの販売から受講までの動線を作�
 
 ファネルの最終ステップは、実際のコースコンテンツです。ここで受講者はコース教材にアクセスし、学習を開始します。コースが魅力的でインタラクティブ、かつ迷わず進められる構成であることが重要です。定期的なフィードバック、評価、クイズは、受講者のモチベーション維持に役立ちます。
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
