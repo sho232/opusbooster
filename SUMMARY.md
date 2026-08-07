@@ -26,6 +26,7 @@
   * [顧客データ](platform/website-funnel-builder/customer-data.md)
   * [ポップアップ](platform/website-funnel-builder/popups.md)
 * [ウィジェット](platform/widgets/README.md)
+  * [新しいウィジェットの使い方](platform/widgets/new-widgets.md)
   * [ボタンウィジェット](platform/widgets/button-widget.md)
   * [コンテナウィジェット](platform/widgets/container-widget.md)
   * [画像ウィジェット](platform/widgets/image-widget.md)
