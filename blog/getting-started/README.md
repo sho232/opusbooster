@@ -15,7 +15,7 @@ icon: rocket-launch
 
 すると、ブログ一覧のページが開き、新しい記事の追加などができるようになります。
 
-![ブログ投稿一覧](../../.gitbook/assets/BlogListing.png)
+![ブログ投稿一覧](../../.gitbook/assets/ArticleBasics.jpg)
 
 この画面では、次の操作ができます。
 
@@ -28,9 +28,8 @@ icon: rocket-launch
 * 記事を複製する
 * 記事をプレビューする
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
