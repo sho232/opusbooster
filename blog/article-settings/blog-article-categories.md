@@ -10,7 +10,7 @@
 4. カテゴリー名を入力するか、一覧から選択します
 5. 設定画面を閉じて、［公開］または［下書き保存］で保存します
 
-![](../../.gitbook/assets/tag1.png)
+![](../../.gitbook/assets/BlogArticlePostDate.jpg)
 
 {% hint style="info" %}
 **カテゴリーは1つ以上必要です**\
@@ -26,9 +26,8 @@
 
 ![](../../.gitbook/assets/category.png)
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
