@@ -36,6 +36,11 @@
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2023-06-01 17.34.12.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**作ったページをサイトの最初のページにしたいときは**\
+「ページ ＆ ポップアップ」から、どのページをホームページにするかを変更できます。手順は[ホームページに使うページを変更する](set-homepage.md)をご覧ください。
+{% endhint %}
+
 ---
 
 <!-- cta:opusbooster -->
