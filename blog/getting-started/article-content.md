@@ -2,7 +2,7 @@
 
 記事の内容は、概要欄の下にあるドラッグ＆ドロップ式のビルダーで作成できます。ページビルダーと同じように、ブロックやカラムを追加したり、ウィジェットメニューから好きなウィジェットを配置したりできます。
 
-![ビルダー画面１](../../.gitbook/assets/ArticleSettings.jpg)
+![ビルダー画面１](../../.gitbook/assets/image-1786111195274.jpg)
 
 ![ビルダー画面２](../../.gitbook/assets/Builder-screenshot2.png)
 
@@ -10,7 +10,7 @@
 
 記事エディターの上部にある［**✨ ブログ集客AIで記事を作成**］ボタンから、AIに本文作成を任せることもできます。
 
-<figure><img src="../../.gitbook/assets/blogai.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/blogai.jpg" alt=""><figcaption></figcaption></figure>
 
 テーマを入力すると、タイトル候補・記事構成・本文までを順番に作成します。カテゴリーやタグ、記事URLも自動で設定されます。
 
