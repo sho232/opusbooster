@@ -16,7 +16,7 @@
 * [ウェブサイト＆ファネルビルダー](platform/website-funnel-builder/README.md)
   * [ダッシュボード概要](platform/website-funnel-builder/dashboard-overview.md)
   * [新規ページの追加](platform/website-funnel-builder/add-pages.md)
-  * [ホームページに使うページを変更する](platform/website-funnel-builder/set-homepage.md)
+  * [サイトのトップページを変更する](platform/website-funnel-builder/set-homepage.md)
   * [新規ブロックの追加](platform/website-funnel-builder/add-blocks.md)
   * [ファイルマネージャーの使い方](platform/website-funnel-builder/file-manager.md)
   * [メンバー限定ページの作成](platform/website-funnel-builder/member-pages.md)
