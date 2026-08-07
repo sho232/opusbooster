@@ -9,7 +9,7 @@
 * **従来のコメント**：従来型のコメント欄（一般的な形式）
 * **コメントウィジェット**：新しい形式のコメント機能（カスタマイズ可能で、ページに自然に組み込めます）
 
-![コメントオプション](../../.gitbook/assets/BlogArticleComments.png)
+![コメントオプション](../../.gitbook/assets/BlogArticlePostDate.jpg)
 
 ***
 
@@ -51,9 +51,8 @@
 
 ![コメントウィジェット](../../.gitbook/assets/Comment.png)
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
