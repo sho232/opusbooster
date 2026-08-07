@@ -4,7 +4,7 @@
 
 [記事設定メニュー](./)を開き、［**投稿情報**］タブの［投稿日］で、公開したい「日付」と「時刻」を選択します。
 
-![](../../.gitbook/assets/BlogArticlePostDate.png)
+![](../../.gitbook/assets/BlogArticlePostDate.jpg)
 
 ### 記事を未来の日時に予約投稿する方法
 
@@ -12,9 +12,8 @@
 
 ![](../../.gitbook/assets/BlogArticlePostDate2.png)
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
