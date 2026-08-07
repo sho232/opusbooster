@@ -10,7 +10,7 @@
 4. タグ名を入力するか、一覧から選択します
 5. 設定画面を閉じて、［公開］または［下書き保存］で保存します
 
-![](../../.gitbook/assets/tag1.png)
+![](../../.gitbook/assets/BlogArticlePostDate.jpg)
 
 #### タグの表示場所
 
@@ -25,9 +25,8 @@
 
 ![](../../.gitbook/assets/tag2.png)
 
----
+***
 
-<!-- cta:opusbooster -->
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
