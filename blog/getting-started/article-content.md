@@ -4,7 +4,7 @@
 
 ![ビルダー画面１](../../.gitbook/assets/image-1786111195274.jpg)
 
-![ビルダー画面２](../../.gitbook/assets/BlogArticlePostDate.jpg)
+![ビルダー画面２](<../../.gitbook/assets/Builder-screenshot2 (1).png>)
 
 ### AIに本文を書いてもらう
 
