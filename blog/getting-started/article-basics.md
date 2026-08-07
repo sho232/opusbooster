@@ -6,7 +6,7 @@
 
 すると、記事エディターが開きます。
 
-![](/broken/files/JLQIoACpLvUXdEbNB9MO)
+![](../../.gitbook/assets/image-1786111195274.jpg)
 
 記事エディターでは、次の操作ができます。
 
