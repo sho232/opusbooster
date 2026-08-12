@@ -1,40 +1,36 @@
-# スライダーウィジェット
+# スライダーウィジェット（廃止されました）
 
-スライダーウィジェットはギャラリーウィジェットに似ていますが、画像や動画にテキストやコールトゥアクションを追加するなど、より多くの機能を備えています。
+{% hint style="warning" %}
+**スライダーウィジェットは廃止されました。**
 
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FHm8Kvis59ktbYleg1TTG%2Fslider%20widget.PNG?alt=media\&token=bbd905e0-e9a2-441d-b12c-04368ed0ff53)
-
-### スライダーの編集
-
-スライダーを作成するには、まず「スライドの編集」タブを選択し、下図のようにプラスアイコンをクリックします。
-
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2F5b7gNcNayTyTaRwibo5c%2Fslider%20edit.png?alt=media\&token=1f7fd6f8-bb09-4e00-bb6a-bd6ad06b8030)
-
-プラスアイコンを選択すると、次の画像が表示されます。これがスライダーエディターです。
-
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FHOheHpetd9jN3MyFq4OV%2Fslider%20create%20new.PNG?alt=media\&token=0d1a9ea6-597d-487e-b8df-b99b8762bf52)
-
-{% hint style="info" %}
-注）画像である必要はありません。テキストや動画も可能です。
+新しくページに置くことはできません。スライダーは、**ウィジェットではなく「モード」**として作る方式に変わりました。
 {% endhint %}
 
-そして、追加したいレイヤーを選択します。この例では、画像レイヤーを使用します。
+## 何が変わったか
 
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FoAAX8lzBxgYypgPCx94c%2Fslider%20add%20layer.PNG?alt=media\&token=472612d2-9347-430f-b68b-b35f6f0f1264)
+以前は「スライダー」という専用のウィジェットを置き、その中でスライドを編集し、画像やテキストを**レイヤー**として重ねていく作り方でした。
 
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FZ6jvz2RtIteYycC1JOAg%2Fslider%20add%20image.PNG?alt=media\&token=3bd35c00-4c0d-4ca1-b1e6-b97998a9f615)
+いまは、**ブロック・行・列そのものをスライダーにします。**
 
-画像レイヤーが追加されました。なお、画像をレイヤーとして追加しない場合は、エディター上部の「画像を変更」ボタンを選択することで、画像を背景として設定することができます。
+行の設定を開いて「**スライダーモード**」をオンにするだけです。中身は、普通にページを作るのと同じように置けます。
 
-さて、画像レイヤーを追加したところで、必要であればさらに加工することができます。アニメーションの設定から、画像へのURLリンクの追加まで可能です。
+## 以前より良くなった点
 
-次に、画像にテキストを追加しましょう。そのためには、新規レイヤーを作成し、テキストレイヤーを選択するだけです。
+**中に何を入れてもかまいません。**
 
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FZZNDu5TubIQ4A2qDza73%2Fslider%20text%20layer.PNG?alt=media\&token=8cd39b1c-4078-428e-aba4-8a55ac3519e9)
+専用ウィジェットだった頃は、決まった形（画像＋文字など）しか作れませんでした。いまは、写真だけのスライド、お客様の声のスライド、料金表のスライドを混ぜることもできます。1枚目と2枚目で構成が違っていても問題ありません。
 
-新しい編集ボックスが表示されました。新規レイヤーとして追加したいテキストを入力します。フォントのスタイルや色、アニメーションを設定すれば完成です。
+レイヤーを組む必要もなくなりました。普段のページ作りと同じ操作で作れます。
 
-![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FoV6cM7VG0E6VTyyWeckT%2Fslider%20add%20font.PNG?alt=media\&token=fe46cb26-ec64-473f-a595-664133fe412d)
+## 新しい作り方
+
+手順は次の記事にまとめています。
+
+{% content-ref url="../website-funnel-builder/layout-freedom.md" %}
+[layout-freedom.md](../website-funnel-builder/layout-freedom.md)
+{% endcontent-ref %}
+
+同じ記事では、**タブでの切り替え**（上に並んだタブを押して内容を切り替える形）もご案内しています。スライダーが自動で流れるのに対して、タブは**読者に選んでもらう**形です。用途に合わせてお選びください。
 
 ---
 
