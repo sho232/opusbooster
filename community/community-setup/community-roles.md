@@ -57,5 +57,5 @@ icon: person-sign
 {% hint style="success" %}
 **自分の場合はどう使えばいいか**
 
-[コミュニティ機能の全体像](https://opusbooster.com/community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+[コミュニティ機能の全体像](https://opusbooster.com/fan-community)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
 {% endhint %}
