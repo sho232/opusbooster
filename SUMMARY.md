@@ -264,6 +264,30 @@
   * [他のアカウントと比べすぎてしまう失敗](sns-unyou-ai/social-media-tips/comparing-your-account-to-others-too-much.md)
   * [コンテンツを考えすぎてしまう失敗](sns-unyou-ai/social-media-tips/overthinking-your-content.md)
 
+## LINE連携 <a href="#line-integration" id="line-integration"></a>
+
+* [LINE連携でできること](line-integration/README.md)
+* [初期設定 — LINE 接続ウィザード](line-integration/getting-started/line-setup-wizard.md)
+* [一斉配信を送る](line-integration/deliver/broadcasts.md)
+* [シナリオ配信を作る](line-integration/deliver/scenarios.md)
+  * [AIに相談してシナリオを作る](line-integration/deliver/scenario-ai-consult.md)
+* [リッチメニューを作って公開する](line-integration/deliver/rich-menus.md)
+* [ダッシュボードの見方](line-integration/watch/dashboard.md)
+* [友だちリストと絞り込み](line-integration/watch/contacts.md)
+* [トークで返信する](line-integration/watch/talk.md)
+* [ログの見方 — 配信の記録](line-integration/watch/logs-deliveries.md)
+  * [ログの見方 — シナリオの進行記録](line-integration/watch/logs-scenario-runs.md)
+* [タグ管理](line-integration/arrange/tags.md)
+* [セグメントで配信先を絞る](line-integration/arrange/segments.md)
+* [設定画面の全体像](line-integration/arrange/settings-overview.md)
+  * [友だち追加の入口と経路の計測](line-integration/settings/friend-add.md)
+  * [キーワード応答ルール](line-integration/settings/keyword-rules.md)
+  * [チーム — 担当者の追加と権限](line-integration/settings/team.md)
+  * [OpusBooster 連携 — イベント連動とフォーム連携](line-integration/settings/opusbooster-integration.md)
+  * [高度な紐づけ・購入連携](line-integration/settings/advanced-linking.md)
+  * [Meta 広告連携 (CAPI)](line-integration/settings/meta-capi.md)
+  * [埋め込みパーツとご利用状況](line-integration/settings/embed-and-plan.md)
+
 ## 内部インテグレーション <a href="#internal-integrations" id="internal-integrations"></a>
 
 * [メール](internal-integrations/email/README.md)
