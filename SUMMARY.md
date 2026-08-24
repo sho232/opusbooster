@@ -19,6 +19,7 @@
   * [サイトのトップページを変更する](platform/website-funnel-builder/set-homepage.md)
   * [新規ブロックの追加](platform/website-funnel-builder/add-blocks.md)
   * [ファイルマネージャーの使い方](platform/website-funnel-builder/file-manager.md)
+  * [画像を編集する](platform/website-funnel-builder/image-editor.md)
   * [メンバー限定ページの作成](platform/website-funnel-builder/member-pages.md)
   * [言語とタイムゾーンの設定](platform/website-funnel-builder/language-timezone.md)
   * [ファビコンとソーシャルシェア画像](platform/website-funnel-builder/favicon-social-share.md)
