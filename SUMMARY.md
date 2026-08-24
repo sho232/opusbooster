@@ -22,6 +22,7 @@
   * [メンバー限定ページの作成](platform/website-funnel-builder/member-pages.md)
   * [言語とタイムゾーンの設定](platform/website-funnel-builder/language-timezone.md)
   * [ファビコンとソーシャルシェア画像](platform/website-funnel-builder/favicon-social-share.md)
+  * [ページのSEOスコアを確認する](platform/website-funnel-builder/seo-score.md)
   * [フォントの設定](platform/website-funnel-builder/font-settings.md)
   * [Cookieとプライバシー](platform/website-funnel-builder/cookies-and-privacy.md)
   * [顧客データ](platform/website-funnel-builder/customer-data.md)
