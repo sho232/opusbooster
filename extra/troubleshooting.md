@@ -13,7 +13,7 @@ description: OpusBoosterでよくある3つのつまずき（メールが届か�
 1. **迷惑メールフォルダを確認する** — まず受信側の迷惑メール（スパム）フォルダとプロモーションタブを見てください。ここにある場合は、次の2番の設定で改善します
 2. **メールドメインの接続を確認する** — [メールドメインの接続](../platform/email-and-automation/email-domain-connection.md)の設定（DNSレコードの登録）が完了しているか、設定画面で認証済みになっているかを確認します。この設定がないと、迷惑メール扱いされやすくなります
 3. **メールアカウント認証を確認する** — [メールアカウント認証](../platform/email-and-automation/email-account-verification.md)が済んでいるかを確認します
-4. **宛先リストの状態を確認する** — 相手が配信停止（購読解除）していないか、[メールリスト](../platform/email-and-automation/email-lists.md)で確認します。ダブルオプトインを使っている場合は、[確認メール](../platform/system-emails/system-email-templates/double-opt-in-confirmation.md)を相手がクリックし終えているかも確認してください
+4. **宛先リストの状態を確認する** — 相手が配信停止（購読解除）していないか、[購読者リスト](../platform/email-and-automation/email-lists.md)で確認します。ダブルオプトインを使っている場合は、[確認メール](../platform/system-emails/system-email-templates/double-opt-in-confirmation.md)を相手がクリックし終えているかも確認してください
 5. **送信テストをやり直す** — 設定を変えたら、[個別のメール送信](../platform/email-and-automation/individual-emails.md)で自分宛てにテストし、受信トレイに入るかを確認します
 
 ## 🌐 ドメインが反映されない <a href="#domain" id="domain"></a>
