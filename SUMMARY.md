@@ -65,7 +65,7 @@
   * [メールドメインの接続](platform/email-and-automation/email-domain-connection.md)
   * [メールアカウント認証](platform/email-and-automation/email-account-verification.md)
   * [メールキャンペーン（メルマガ送信）](platform/email-and-automation/email-campaigns.md)
-  * [メールリスト](platform/email-and-automation/email-lists.md)
+  * [購読者リスト](platform/email-and-automation/email-lists.md)
   * [個別のメール送信](platform/email-and-automation/individual-emails.md)
   * [オートメーション概要](platform/email-and-automation/automation.md)
   * [販売追跡（セールストラッキング）](platform/email-and-automation/sales-tracking.md)
