@@ -24,6 +24,8 @@
 
 帯のように、流れる文字だけを1行で見せます。ページの区切りや、お知らせの帯として使えます。
 
+<figure><img src="../../.gitbook/assets/image-75.png" alt=""><figcaption><p>流れる文字だけを帯状に見せます</p></figcaption></figure>
+
 ### 設定項目
 
 <figure><img src="../../.gitbook/assets/image-72.png" alt=""><figcaption></figcaption></figure>

@@ -12,11 +12,13 @@
 
 **セクションに名札を付けられます。** 「サービス紹介」「導入事例」のような区分けを、見出しをもう1段増やさずに表現できます。
 
+<figure><img src="../../.gitbook/assets/image-76.png" alt=""><figcaption><p>「上部見出し」がビル型見出しです</p></figcaption></figure>
+
 ### 設定項目
 
 編集を押すと設定が開きます。
 
-<figure><img src="../../.gitbook/assets/image-73.png" alt=""><figcaption><p>左が実際の表示。「上部見出し」がビル型見出しです</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-73.png" alt=""><figcaption></figcaption></figure>
 
 | 項目 | 内容 |
 |---|---|
