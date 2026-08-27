@@ -45,7 +45,7 @@
   * [寄付ウィジェット](platform/widgets/donation-widget.md)
   * [ギャラリーウィジェット](platform/widgets/gallery-widget.md)
   * [画像比較ウィジェット](platform/widgets/image-comparison-widget.md)
-  * [画像ホットスポットウィジェット](platform/widgets/image-hotspot-widget.md)
+  * [ホットスポット画像ウィジェット](platform/widgets/image-hotspot-widget.md)
   * [画像オートローテーターウィジェット](platform/widgets/image-auto-rotator-widget.md)
   * [スライダーウィジェット](platform/widgets/slider-widget.md)
   * [SNSウィジェット](platform/widgets/social-media-widget.md)

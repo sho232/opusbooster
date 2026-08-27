@@ -30,6 +30,8 @@
 
 ### 設定項目
 
+<figure><img src="../../.gitbook/assets/image-59.png" alt=""><figcaption></figcaption></figure>
+
 | 項目 | 内容 |
 |---|---|
 | 見出し | ギャラリーの上に表示するラベル（例:「導入いただいている企業さま」） |
