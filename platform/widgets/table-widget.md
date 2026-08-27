@@ -33,15 +33,15 @@
 
 見出し行と、その下にデータ行が並ぶ、ふつうの表です。仕様表や機能一覧など、素直に情報を並べたいときに向いています。
 
+<figure><img src="../../.gitbook/assets/image-74.png" alt=""><figcaption><p>「標準」で表示したところ</p></figcaption></figure>
+
 **比較**
 
 料金プランの比較に特化した形です。1つの列を目立たせて、見てほしいプランへ視線を誘導できます。
 
-<figure><img src="../../.gitbook/assets/image-69.png" alt=""><figcaption><p>「比較」で Pro 列を強調したところ</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-69.png" alt=""><figcaption><p>「比較」で Pro 列を強調し、「おすすめ」のラベルを付けたところ</p></figcaption></figure>
 
 ### 設定項目
-
-<figure><img src="../../.gitbook/assets/image-70.png" alt=""><figcaption><p>「比較」を選んだときのスタイリング</p></figcaption></figure>
 
 **両方のレイアウトで使えるもの**
 
@@ -58,10 +58,17 @@
 
 **比較レイアウトだけの設定**
 
+<figure><img src="../../.gitbook/assets/image-70.png" alt=""><figcaption><p>「比較」を選んだときのスタイリング</p></figcaption></figure>
+
 | 項目 | 内容 |
 |---|---|
 | 列をハイライト | どのプラン（列）を目立たせるか。「NONE」で強調なし |
 | 機能比較（自動 ✓ / ✗） | 入力した値を自動的に ✓ / ✗ に変換します |
+| ラベルをハイライト | 強調した列の上に出すバッジの文字（例:「おすすめ」「いちばん人気」） |
+
+{% hint style="info" %}
+「ラベルをハイライト」は、**「機能比較（自動 ✓ / ✗）」をオンにすると出てきます。** オフのままだと項目自体が表示されないので、バッジの文字を変えたいときはまずこのスイッチを入れてください。
+{% endhint %}
 
 {% hint style="success" %}
 料金表では、いちばん売りたいプランを「列をハイライト」に指定します。並べただけの表よりも、選んでほしい方向がはっきり伝わります。
