@@ -12,6 +12,8 @@
 
 **言葉を自由に決められます。** 「下部のテキスト」の欄で、「延べ200名の講師にご利用いただいています」のように、伝えたい実績を書けます。
 
+<figure><img src="../../.gitbook/assets/image-66.png" alt=""><figcaption><p>顔写真・星評価・数字・ひとことが、ひとまとまりで表示されます</p></figcaption></figure>
+
 ### 設定項目
 
 <figure><img src="../../.gitbook/assets/image-65.png" alt=""><figcaption></figcaption></figure>
@@ -26,8 +28,6 @@
 | 星の色 | 星の色 |
 | 評価とテキストの色 | 数字と文章の色 |
 | リンク | ウィジェット全体をクリックできるようにします（例: レビュー一覧ページへ） |
-
-<figure><img src="../../.gitbook/assets/image-66.png" alt=""><figcaption><p>下にスクロールすると、色とリンクの設定が出てきます</p></figcaption></figure>
 
 {% hint style="warning" %}
 顔写真は、実際のお客様の許可を取ったものを使ってください。素材写真を「利用者の顔」として並べると、信頼を得るための仕掛けが逆に信頼を損ないます。写真が用意できない場合は、画像を非表示にして数字と文章だけでも成立します。
