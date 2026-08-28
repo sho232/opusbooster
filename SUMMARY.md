@@ -51,6 +51,8 @@
   * [ソーシャルプルーフウィジェット](platform/widgets/social-proof-widget.md)
   * [チェックアウトウィジェット](platform/widgets/checkout-widget.md)
   * [ストアウィジェット](platform/widgets/store-widget.md)
+  * [料金ウィジェット](platform/widgets/pricing-widget.md)
+  * [料金比較ウィジェット](platform/widgets/pricing-comparison-widget.md)
   * [寄付ウィジェット](platform/widgets/donation-widget.md)
   * [ギャラリーウィジェット](platform/widgets/gallery-widget.md)
   * [画像比較ウィジェット](platform/widgets/image-comparison-widget.md)
