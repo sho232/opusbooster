@@ -14,6 +14,8 @@
 
 グリッド・カルーセル・**マンソリー**の3つのスタイルから選択できます。**グリッド**レイアウトは、追加したすべての画像を静的なフォーマットで表示します。**カルーセル**は、画像に動きをつけたり、ユーザーの手動入力で画像をスクロールさせたりすることができます。**マンソリー**は、縦横のサイズが異なる画像をレンガのように敷き詰めて表示するレイアウトで、Pinterestのような見た目にしたいときに向いています。
 
+<figure><img src="../../.gitbook/assets/gallery-widget-grid-arrangement.png" alt=""><figcaption></figcaption></figure>
+
 どちらも画像比率サイズからスタイリング要素は同じです。画像をライトボックスで開くと、クリックしたときに画像が拡大され、画像をコンテナのサイズに合わせたい場合に使用します。
 
 ![](https://1369750374-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FWQDl1MvGQxbiNyVOzW8v%2Fuploads%2FXlEZ8RpKQmdmXVclWW1L%2Fgallery%20stlying.PNG?alt=media\&token=13792c09-4e66-41ef-8496-8939255a5997)
