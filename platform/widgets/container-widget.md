@@ -112,16 +112,20 @@
 各カラムには、行全体の設定とは別に、カラム単位の設定を追加できます。カラムを選択して「**カラム設定**」を開くと、以下を編集できます。
 
 * 背景色
-* カラムの余白（ガター）
+* トップ列の余白
 * 枠線
 * 影
 * すりガラス効果（グラスブラー）
+
+<figure><img src="../../.gitbook/assets/container-widget-column-settings-panel.png" alt=""><figcaption></figcaption></figure>
 
 さらに、カラムごとに個別の**スライダーモード**を有効にすることもできます。行全体をスライダーにする方法は後述しますが、カラム単位で設定すると、1つの行の中の一部のカラムだけをスライド表示にする、といった使い方ができます。
 
 ### タブ機能
 
-複数のカラムを、タブで切り替えて表示することもできます。「**タブ**」を有効にすると、カラムがタブ形式に変わり、訪問者はタブをクリックして表示内容を切り替えられます。
+複数のカラムを、タブで切り替えて表示することもできます。行の設定（「**行設定を編集**」）にある「**タブモード**」を有効にすると、カラムがタブ形式に変わり、訪問者はタブをクリックして表示内容を切り替えられます。
+
+<figure><img src="../../.gitbook/assets/container-widget-tabs-mode.png" alt=""><figcaption></figcaption></figure>
 
 タブのスタイルは以下から選べます。
 
@@ -144,9 +148,13 @@
 
 パターンごとに色と間隔（スペーシング）を調整できるので、写真や単色の背景よりも少し表情のある背景にしたいときに使います。
 
+<figure><img src="../../.gitbook/assets/container-widget-background-pattern.png" alt=""><figcaption></figcaption></figure>
+
 ### アニメーション背景（動くグラデーション）
 
 「グラデーション」の設定の中に、**動くグラデーション**（Flowing gradient / Aurora mesh）が用意されています。静止したグラデーションと違い、背景がゆっくり色を変えながら動き続けるので、ヒーローセクションの背景に使うと目を引きやすくなります。アニメーションの速度も調整できます。
+
+<figure><img src="../../.gitbook/assets/container-widget-animated-gradient.png" alt=""><figcaption></figcaption></figure>
 
 ### スライダーモードの詳細設定
 
