@@ -49,3 +49,12 @@ description: 設定画面にある項目の役割を地図のように確認す�
 ### どこから始めればよいですか？
 
 初めてLINEをつなぐ場合は「**LINEチャネル**」と[LINE連携のセットアップ](../getting-started/line-setup-wizard.md)から始めてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

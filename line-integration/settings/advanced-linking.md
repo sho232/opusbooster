@@ -56,3 +56,11 @@ description: LINEログインによる自動紐づけと、購入完了ページ
 
 画面に「保存していない変更があります」と出ていないか確認し、「**保存**」を選びます。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

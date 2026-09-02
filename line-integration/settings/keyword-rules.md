@@ -56,3 +56,11 @@ LINE 公式アカウントとの接続が必要です。未接続の場合は、
 
 既存のラベルとキーワードは変更できません。無効にして、別のルールを作成してください。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

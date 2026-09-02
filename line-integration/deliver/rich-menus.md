@@ -47,3 +47,12 @@ description: LINEのトーク画面に表示するリッチメニューを作成
 ### レイアウトは後から動かせますか？
 
 エリアの位置はレイアウトプリセットで決まります。変更する場合は削除して作り直してください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

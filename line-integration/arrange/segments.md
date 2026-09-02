@@ -45,3 +45,12 @@ description: タグなどの条件を組み合わせ、配信先を絞るセグ�
 ### 削除したセグメントは使えますか？
 
 いいえ。一斉配信の宛先にも、シナリオ配信の開始条件にも選べません。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}
