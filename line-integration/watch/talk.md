@@ -49,3 +49,12 @@ description: トーク一覧から友だちとの会話を開き、返信と対�
 ### 担当者がいない会話を探したいです
 
 「**担当者**」の絞り込みで「**未割り当て**」を選びます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

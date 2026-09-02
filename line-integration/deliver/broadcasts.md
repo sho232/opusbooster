@@ -75,3 +75,12 @@ description: セグメントで宛先を選び、メッセージを確認してL
 ### 送った本文を直したいです
 
 送信後は本文も宛先も変更できません。送る前なら、下書き画面の「**編集**」で直し、「**下書きを保存**」できます。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

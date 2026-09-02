@@ -49,3 +49,12 @@ description: 友だちを見分けるためのタグを作成、変更、削除�
 ### 名前の付け方に迷います
 
 誰に付ける目印か、何の案内に使うかが分かる名前にすると、あとから選びやすくなります。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

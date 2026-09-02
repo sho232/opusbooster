@@ -53,3 +53,12 @@ LINE連携は、LINE公式アカウントを使って、音楽や作品の案内
 ### ログは毎日見る必要がありますか？
 
 日々の確認は「**ダッシュボード**」や「**トーク**」から始められます。届かないなど、記録を確かめたいときに「**ログ**」を開いてください。
+
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

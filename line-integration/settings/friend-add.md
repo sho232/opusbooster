@@ -56,3 +56,11 @@ description: 友だち追加URLを登録し、経路ごとの計測URLで流入�
 
 経路一覧の「**QR**」を選び、「計測 URL の QR コード」を表示して使えます。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}

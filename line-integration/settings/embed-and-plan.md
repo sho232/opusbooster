@@ -80,3 +80,11 @@ description: OpusBooster埋め込み用トークンの発行・無効化と、�
 
 発行する側の契約状態が「期限切れ」だと、共有 URL の発行と、その URL からのインポートが止まります。受け取った URL が開けないときは、発行した相手に契約状態を確認してもらってください。インポートする側の契約状態は関係ありません。
 
+---
+
+<!-- cta:opusbooster -->
+{% hint style="success" %}
+**自分の場合はどう使えばいいか**
+
+[LINE連携の全体像](https://opusbooster.com/line)を見る。設計から相談したい方は[15分の無料相談](https://opusbooster.com/consultation)、まず触ってみたい方は[14日間の無料トライアル](https://opusbooster.com/register)（クレジットカード不要）から。
+{% endhint %}
