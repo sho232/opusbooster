@@ -41,21 +41,21 @@ OpusBooster から自分のドメイン（例: `piano-school.com`）を差出人
 
 ここが、いちばん止まりやすいところです。**まず、自分のドメインがどの会社で管理されているかを確かめてください。**
 
-{% content-ref url="email-domain-dns/where-is-my-domain.md" %}
-[where-is-my-domain.md](email-domain-dns/where-is-my-domain.md)
+{% content-ref url="../getting-started/dns-records/where-is-my-domain.md" %}
+[where-is-my-domain.md](../getting-started/dns-records/where-is-my-domain.md)
 {% endcontent-ref %}
 
 会社が分かったら、その会社の手順へ進みます。画面の写真つきで、押す場所を順番に説明しています。
 
 | 会社 | 手順 |
 |---|---|
-| お名前.com | [お名前.com でレコードを追加する](email-domain-dns/onamae.md) |
-| エックスサーバー / Xserverドメイン | [エックスサーバーでレコードを追加する](email-domain-dns/xserver.md) |
-| ムームードメイン | [ムームードメインでレコードを追加する](email-domain-dns/muumuu.md) |
-| さくらインターネット | [さくらインターネットでレコードを追加する](email-domain-dns/sakura.md) |
-| バリュードメイン | [バリュードメインでレコードを追加する](email-domain-dns/value-domain.md) |
-| Cloudflare | [Cloudflare でレコードを追加する](email-domain-dns/cloudflare.md) |
-| Google Domains / Google Workspace で取得（現在は Squarespace） | [Squarespace（旧 Google Domains）でレコードを追加する](email-domain-dns/squarespace.md) |
+| お名前.com | [お名前.com でレコードを追加する](../getting-started/dns-records/onamae.md) |
+| エックスサーバー / Xserverドメイン | [エックスサーバーでレコードを追加する](../getting-started/dns-records/xserver.md) |
+| ムームードメイン | [ムームードメインでレコードを追加する](../getting-started/dns-records/muumuu.md) |
+| さくらインターネット | [さくらインターネットでレコードを追加する](../getting-started/dns-records/sakura.md) |
+| バリュードメイン | [バリュードメインでレコードを追加する](../getting-started/dns-records/value-domain.md) |
+| Cloudflare | [Cloudflare でレコードを追加する](../getting-started/dns-records/cloudflare.md) |
+| Google Domains / Google Workspace で取得（現在は Squarespace） | [Squarespace（旧 Google Domains）でレコードを追加する](../getting-started/dns-records/squarespace.md) |
 
 上の一覧に無い会社の場合は、その会社のヘルプで「**DNSレコードの追加**」または「**TXTレコード / CNAMEレコード**」を探してください。どの会社にも同じ機能があります。見つからないときは、会社のサポートに「TXT と CNAME のレコードを追加したい」と伝えれば案内してもらえます。
 
@@ -81,7 +81,7 @@ OpusBooster から自分のドメイン（例: `piano-school.com`）を差出人
 
 1. **名前（ホスト名）にドメインを二重に入れている** — `def._domainkey.piano-school.com.piano-school.com` のようになっていないか。多くの会社は `def._domainkey` だけを入れると、あとをドメイン名で補ってくれます。
 2. **値の前後に余分なスペースや改行が入っている** — コピーボタンで写し直してください。
-3. **貼った会社が違う** — ドメインを買った会社と、ドメインを「運用している」会社が別のことがあります（例: お名前.com で買って、エックスサーバーで使っている）。この場合は**運用している会社の画面**に貼ります。→ [どこで管理されているか調べる](email-domain-dns/where-is-my-domain.md)
+3. **貼った会社が違う** — ドメインを買った会社と、ドメインを「運用している」会社が別のことがあります（例: お名前.com で買って、エックスサーバーで使っている）。この場合は**運用している会社の画面**に貼ります。→ [どこで管理されているか調べる](../getting-started/dns-records/where-is-my-domain.md)
 
 それでも解決しないときは [よくあるつまずきと解決方法](../../extra/troubleshooting.md#email) を見てください。
 
