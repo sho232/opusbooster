@@ -12,7 +12,7 @@ OpusBooster の「メッセージ & ワークフロー」のオートメーシ�
 
 ### 1. 「自動送信の接続コード」を開きます
 
-LINE 連携の「設定」→「OpusBooster 連携」→「自動送信の接続コード」を開きます。画面には「シナリオ」「Webhook URL」「ヘッダー名」「ヘッダー値」が表示されます。
+LINE 連携の「設定」→「注文・予約・フォームの受信」→「自動送信の接続コード」を開きます。画面には「シナリオ」「Webhook URL」「ヘッダー名」「ヘッダー値」が表示されます。
 
 <figure><img src="../../.gitbook/assets/line-automation-bridge.png" alt=""><figcaption>シナリオを選ぶと、そのシナリオ専用の Webhook URL が表示されます</figcaption></figure>
 
