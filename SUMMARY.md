@@ -308,7 +308,7 @@
   * [友だち追加の入口と経路の計測](line-integration/settings/friend-add.md)
   * [キーワード応答ルール](line-integration/settings/keyword-rules.md)
   * [チーム — 担当者の追加と権限](line-integration/settings/team.md)
-  * [OpusBooster 連携 — イベント連動とフォーム連携](line-integration/settings/opusbooster-integration.md)
+  * [注文・予約・フォームの受信 — イベント連動とフォーム連携](line-integration/settings/opusbooster-integration.md)
   * [オートメーションから LINE シナリオを送る](line-integration/settings/automation-webhook.md)
   * [高度な紐づけ・購入連携](line-integration/settings/advanced-linking.md)
   * [Meta 広告連携 (CAPI)](line-integration/settings/meta-capi.md)

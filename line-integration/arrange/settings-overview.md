@@ -32,7 +32,7 @@ description: 設定画面にある項目の役割を地図のように確認す�
 
 「**チーム管理**」では参加メンバーの一覧と権限を確認し、権限の変更と削除を行います。詳細は[チーム管理](../settings/team.md)をご覧ください。
 
-「**注文・予約・フォームの受信**」は、注文・予約・フォーム送信などの出来事を受け取るための設定です。詳しくは[OpusBooster連携](../settings/opusbooster-integration.md)をご覧ください。「**フォーム回答の設定**」ではフォーム回答の扱いを登録します。「**LINEログイン連携**」は[高度な連携](../settings/advanced-linking.md)、「**購入連携の埋め込み**」は[購入連携](../settings/embed-and-plan.md)をご覧ください。Meta Conversions API は[Meta CAPI](../settings/meta-capi.md)で確認できます。
+「**注文・予約・フォームの受信**」は、注文・予約・フォーム送信などの出来事を受け取るための設定です。詳しくは[受信設定](../settings/opusbooster-integration.md)をご覧ください。「**フォーム回答の設定**」ではフォーム回答の扱いを登録します。「**LINEログイン連携**」は[高度な連携](../settings/advanced-linking.md)、「**購入連携の埋め込み**」は[購入連携](../settings/embed-and-plan.md)をご覧ください。Meta Conversions API は[Meta CAPI](../settings/meta-capi.md)で確認できます。
 
 <figure><img src="../../.gitbook/assets/line-settings-advanced.png" alt=""><figcaption>外部との連携に関するカード</figcaption></figure>
 
