@@ -26,6 +26,29 @@ DNSへの変更は最大48時間かかることがありますので、ご注意
 注意：レコードが重複しているとドメインが正しく接続されないので、重複していないことを確認してください。ホスト名/名前として@を持つAレコードとホスト名/名前としてwwwを持つCNAMEレコードを1つだけ持つ必要があります。
 {% endhint %}
 
+## 会社別の手順（画面の写真つき）
+
+「ドメイン取得サービスのドメイン設定」がどこにあるかは会社ごとに違います。**まず自分のドメインがどの会社で管理されているかを確かめて**、その会社の手順へ進んでください。ドメインを買った会社と、運用している会社が別のこともあります。
+
+{% content-ref url="dns-records/where-is-my-domain.md" %}
+[where-is-my-domain.md](dns-records/where-is-my-domain.md)
+{% endcontent-ref %}
+
+| 会社 | 手順 |
+|---|---|
+| お名前.com | [お名前.com でレコードを追加する](dns-records/onamae.md) |
+| エックスサーバー / Xserverドメイン | [エックスサーバーでレコードを追加する](dns-records/xserver.md) |
+| ムームードメイン | [ムームードメインでレコードを追加する](dns-records/muumuu.md) |
+| さくらインターネット | [さくらインターネットでレコードを追加する](dns-records/sakura.md) |
+| バリュードメイン | [バリュードメインでレコードを追加する](dns-records/value-domain.md) |
+| Cloudflare | [Cloudflare でレコードを追加する](dns-records/cloudflare.md) |
+| Google Domains / Google Workspace で取得（現在は Squarespace） | [Squarespace（旧 Google Domains）でレコードを追加する](dns-records/squarespace.md) |
+
+{% hint style="info" %}
+**メールも自分のドメインから送りたい方へ**
+同じ会社の画面で、[メールドメインの接続](../email-and-automation/email-domain-connection.md)の2行も一緒に足せます。会社別の手順の中に「サイト用」「メール用」の両方を載せてあるので、一度のログインで済みます。メールは後回しでもかまいません。
+{% endhint %}
+
 ---
 
 <!-- cta:opusbooster -->
