@@ -41,7 +41,7 @@ OpusBooster から自分のドメイン（例: `piano-school.com`）を差出人
 
 ## ステップ 2: ドメインを管理している会社の画面に貼る
 
-ここが、いちばん止まりやすいところです。**まず、自分のドメインがどの会社で管理されているかを確かめてください。**
+ここが、いちばん止まりやすいところです。**まず、自分のドメインがどの会社で管理されているかを確かめてください。** いちばん早いのは、[ドメインの管理会社チェッカー](https://opusbooster.com/domain-check)にドメイン名を入れることです（ログイン不要）。貼る先の会社と手順ページをそのまま案内します。
 
 {% content-ref url="../getting-started/dns-records/where-is-my-domain.md" %}
 [where-is-my-domain.md](../getting-started/dns-records/where-is-my-domain.md)
