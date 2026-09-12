@@ -55,7 +55,7 @@
 
 ### **予約可能時間の設定** <a href="#setting-availability" id="setting-availability"></a>
 
-次に予約可能時間の設定を行います。
+次に予約可能時間の設定を行います。オペレーター側で受付時間を決めてある場合は、その時間がそのまま使われます（詳しくは[予約時の決済・複数サービス・カテゴリー](booking-payments-and-services.md)）。
 
 * オペレータの稼働状況
 * 利用期間の単位
@@ -67,6 +67,10 @@
 予約を行う前に尋ねる追加の詳細。たとえば、顧客名、電子メール、予約に必要な詳細などです。カスタム フィールドを追加したり、独自のフィールドを作成したりすることもできます。
 
 <figure><img src="../../.gitbook/assets/スクリーンショット 2024-09-02 22.46.42.png" alt=""><figcaption></figcaption></figure>
+
+### 決済
+
+このイベントで使うサービスの料金が一覧で表示されます。価格が付いたサービスを予約した人は、予約の確定前に支払いを済ませます。価格はサービスの設定で変更します。詳しくは[予約時の決済・複数サービス・カテゴリー](booking-payments-and-services.md)をご覧ください。
 
 ### 予約の確認 <a href="#booking-confirmation" id="booking-confirmation"></a>
 
@@ -102,7 +106,7 @@ Appointment Booking
 
 ### 複数サービス <a href="#multiple-services" id="multiple-services"></a>
 
-複数のサービスがある場合、訪問者は以下のように、希望するサービスを選択できるようになります。
+複数のサービスがある場合、訪問者は以下のように、希望するサービスを選択できるようになります。1回の予約で複数のサービスをまとめて選んでもらうこともできます（[設定方法](booking-payments-and-services.md)）。
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
