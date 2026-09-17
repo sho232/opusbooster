@@ -105,7 +105,7 @@
 {% hint style="info" %}
 **同じところでつまずいた方は**
 
-OpusConnect（OpusBoosterのユーザーコミュニティ）にも、操作でつまずいたときの質問と答えが集まっています。[質問と答えを見る](https://opusbooster.com/community/opusconnect/questions)
+OpusConnect（OpusBoosterのユーザーコミュニティ）にも、操作でつまずいたときの質問と答えが集まっています。[OpusConnectを開く](https://opusbooster.com/me/opusconnect)（OpusBoosterへのログインが必要です）
 {% endhint %}
 
 <!-- cta:opusbooster -->
