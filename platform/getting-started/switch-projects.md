@@ -47,3 +47,12 @@ description: 探していたウェブサイトが見つからないときは、�
 **Q. プロジェクトごとに料金はかかりますか**
 
 プランはプロジェクト単位です。詳しくは[料金ページ](https://opusbooster.com/pricing)をご確認ください。
+
+---
+
+<!-- community:opusconnect -->
+{% hint style="info" %}
+**同じところでつまずいた方は**
+
+OpusConnect（OpusBoosterのユーザーコミュニティ）にも、操作でつまずいたときの質問と答えが集まっています。[質問と答えを見る](https://opusbooster.com/community/opusconnect/questions)
+{% endhint %}
