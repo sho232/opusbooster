@@ -86,6 +86,7 @@
     * [プログレスバーウィジェット](platform/widgets/progress-bar-widget.md)
 * [ファネル](platform/funnels/README.md)
   * [ファネル概要](platform/funnels/funnel-overview.md)
+  * [ファネルの管理（場所・移動・シェア）](platform/funnels/manage-funnels.md)
   * [追加設定](platform/funnels/additional-settings.md)
   * [A/Bスプリットテスト](platform/funnels/ab-split-testing.md)
   * [ストア商品の作成](platform/funnels/create-store-products.md)
