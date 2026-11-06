@@ -10,6 +10,12 @@ description: メールキャンペーン（メルマガの送信）の設定
 
 次のメールキャンペーンを3つの簡単なステップで作成し、配信しましょう。
 
+{% hint style="warning" %}
+**先にメールドメインの接続が必要です**
+
+メールドメインを接続していないと、作成の途中（**概要**のステップ）から先へ進めません。名前・デザイン・対象者までは作れますが、送れるのは接続を済ませてからです。手順は[メールドメインの接続](email-domain-connection.md)をご覧ください。
+{% endhint %}
+
 ### キャンペーンタブを選択
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
@@ -24,6 +30,8 @@ description: メールキャンペーン（メルマガの送信）の設定
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
+いつものお知らせを1回送るときは、**定期キャンペーン**を選びます。名前に「定期」とありますが、1回だけ送る普通のメールです。件名や本文を2通りに分けて反応を比べたいときは **A/Bスプリット**を選びます。
+
 ### **テンプレートを選択** <a href="#select-your-template" id="select-your-template"></a>
 
 ![](../../.gitbook/assets/image.png)
@@ -35,6 +43,12 @@ description: メールキャンペーン（メルマガの送信）の設定
 * ドラッグ＆ドロップビルダー
 * テキストメール
 * カスタムHTMLメール
+
+{% hint style="warning" %}
+**文章だけのメールを送りたいときは、「テキストメール」ではなくテンプレートを使ってください**
+
+白紙の「テキストメール」は、左端に余白が無いまま届きます。文章だけのメールにしたいときは、テンプレートの一覧を下までスクロールし、**最後から2番目の文章だけのテンプレート**を選んで本文を書き換えてください。
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
 
