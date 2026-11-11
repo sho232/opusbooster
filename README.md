@@ -6,7 +6,9 @@ description: OpusBooster公式サポートサイト。ウェブサイト・フ�
 
 ## 👏 ようこそ
 
-{% embed url="https://vimeo.com/849903350/9f47efb1a9" %}
+{% embed url="https://youtu.be/R8U8rB9vkEE" %}
+まずはこの動画から。サイトのビルダーを開いて、最初にやること（トップの3つを直して公開する）を案内します。
+{% endembed %}
 
 {% hint style="info" %}
 お客様に最高のサポートを提供することが、私たちの最優先事項です。
