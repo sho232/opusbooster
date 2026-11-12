@@ -6,9 +6,11 @@ description: OpusBooster公式サポートサイト。ウェブサイト・フ�
 
 ## 👏 ようこそ
 
-{% embed url="https://youtu.be/R8U8rB9vkEE" %}
-まずはこの動画から。サイトのビルダーを開いて、最初にやること（トップの3つを直して公開する）を案内します。
+{% embed url="https://youtu.be/WKLenEGxlBI" %}
+まずはこの動画から。OpusBooster のどの画面が何をする場所かを、約5分で見ていきます。最後に、最初にやる3つをお伝えします。
 {% endembed %}
+
+サイトのトップを直す手順は、[こちらの動画](https://youtu.be/R8U8rB9vkEE)で。
 
 {% hint style="info" %}
 お客様に最高のサポートを提供することが、私たちの最優先事項です。
