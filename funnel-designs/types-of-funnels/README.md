@@ -35,12 +35,14 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **アポイントメント予約** – 面談や相談の予約を受け付けるファネル
 * **オプトイン** – メールリスト登録を目的としたファネル
 * **アスクキャンペーンファネル** – 質問を1つだけ聞き、回答を次の講座や商品づくりに使うファネル
+* **ブリッジファネル** – 他社の申込ページへ送る前に、登録ページと紹介ページを挟むファネル
 * **オンラインコースファネル** – オンラインコースの販売・受講導線を作るファネル
 * **メンバーシップファネル** – 会員制コンテンツへの入会を促すファネル
 * **サミットファネル** – オンラインイベント（サミット）の集客用ファネル
 * **デジタルダウンロードファネル** – 電子書籍などのデジタル商品を配布・販売するファネル
 * **トリップワイヤーファネル** – 無料+送料や低価格商品を入口に「買い客」への転換をつくるファネル
 * **ブックファネル** – 本を入口に、ついで買いと購入直後の追加提案までをつなぐファネル
+* **ストアフロントファネル** – 少数の商品を1ページに並べ、それぞれの注文ページへ案内するファネル
 * **商品ローンチファネル** – 4本の動画シリーズを数日間かけて配信し、新商品をローンチするファネル
 * **VSL（ビデオセールスレター）ファネル** – 1本のセールス動画と注文フォームで完結する販売ファネル
 * **申込式ハイチケットファネル** – 申込フォームと1対1の個別相談で高単価商品を売るファネル
@@ -76,6 +78,10 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 [ask-campaign-funnel.md](ask-campaign-funnel.md)
 {% endcontent-ref %}
 
+{% content-ref url="bridge-funnel.md" %}
+[bridge-funnel.md](bridge-funnel.md)
+{% endcontent-ref %}
+
 {% content-ref url="online-course-funnel.md" %}
 [online-course-funnel.md](online-course-funnel.md)
 {% endcontent-ref %}
@@ -98,6 +104,10 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="book-funnel.md" %}
 [book-funnel.md](book-funnel.md)
+{% endcontent-ref %}
+
+{% content-ref url="storefront-funnel.md" %}
+[storefront-funnel.md](storefront-funnel.md)
 {% endcontent-ref %}
 
 {% content-ref url="product-launch-funnel.md" %}
