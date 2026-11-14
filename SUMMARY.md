@@ -244,6 +244,7 @@
   * [サミットファネル](funnel-designs/types-of-funnels/summit-funnel.md)
   * [デジタルダウンロードファネル](funnel-designs/types-of-funnels/digital-download-funnel.md)
   * [トリップワイヤーファネル](funnel-designs/types-of-funnels/tripwire-funnel.md)
+  * [ブックファネル](funnel-designs/types-of-funnels/book-funnel.md)
   * [商品ローンチファネル](funnel-designs/types-of-funnels/product-launch-funnel.md)
   * [VSL（ビデオセールスレター）ファネル](funnel-designs/types-of-funnels/vsl-funnel.md)
   * [申込式ハイチケットファネル](funnel-designs/types-of-funnels/application-funnel.md)
