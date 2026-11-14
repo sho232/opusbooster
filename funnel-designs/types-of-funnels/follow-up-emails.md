@@ -25,7 +25,7 @@ description: ファネルの型ごとに、登録後・購入後に送るメー�
 
 ### 1. 登録してもらう型
 
-対象: [リードジェネレーション](lead-generation.md)、[オプトイン](opt-in.md)、[ヒーロー](hero.md)、[オンボーディング](onboarding.md)、[アスクキャンペーンファネル](ask-campaign-funnel.md)
+対象: [リードジェネレーション](lead-generation.md)、[オプトイン](opt-in.md)、[ヒーロー](hero.md)、[オンボーディング](onboarding.md)、[アスクキャンペーンファネル](ask-campaign-funnel.md)、[ブリッジファネル](bridge-funnel.md)
 
 | 送る時期 | 内容 |
 | --- | --- |
@@ -59,7 +59,7 @@ description: ファネルの型ごとに、登録後・購入後に送るメー�
 
 ### 3. 買ってもらう型
 
-対象: [トリップワイヤーファネル](tripwire-funnel.md)、[ブックファネル](book-funnel.md)、[VSL(ビデオセールスレター)ファネル](vsl-funnel.md)、[デジタルダウンロードファネル](digital-download-funnel.md)、[オンラインコースファネル](online-course-funnel.md)、[メンバーシップファネル](membership-funnel.md)
+対象: [トリップワイヤーファネル](tripwire-funnel.md)、[ブックファネル](book-funnel.md)、[ストアフロントファネル](storefront-funnel.md)、[VSL(ビデオセールスレター)ファネル](vsl-funnel.md)、[デジタルダウンロードファネル](digital-download-funnel.md)、[オンラインコースファネル](online-course-funnel.md)、[メンバーシップファネル](membership-funnel.md)
 
 | 送る時期 | 内容 |
 | --- | --- |
