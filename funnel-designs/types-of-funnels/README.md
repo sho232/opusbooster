@@ -12,6 +12,20 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 [value-ladder-guide.md](value-ladder-guide.md)
 {% endcontent-ref %}
 
+型を選んだあとに役立つ記事もあわせてご覧ください。音楽家・教室での使い方の例、登録後や購入後に送るメールの並び、案内を始める前の確認点をまとめています。
+
+{% content-ref url="use-cases-for-musicians.md" %}
+[use-cases-for-musicians.md](use-cases-for-musicians.md)
+{% endcontent-ref %}
+
+{% content-ref url="follow-up-emails.md" %}
+[follow-up-emails.md](follow-up-emails.md)
+{% endcontent-ref %}
+
+{% content-ref url="pre-launch-checklist.md" %}
+[pre-launch-checklist.md](pre-launch-checklist.md)
+{% endcontent-ref %}
+
 主なファネルの種類は以下のとおりです。
 
 * **リードジェネレーション** – 見込み客の連絡先情報を獲得するための2ステップファネル
