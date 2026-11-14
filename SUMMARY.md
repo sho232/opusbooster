@@ -26,6 +26,7 @@
 * [ウェブサイト＆ファネルビルダー](platform/website-funnel-builder/README.md)
   * [ダッシュボード概要](platform/website-funnel-builder/dashboard-overview.md)
   * [新規ページの追加](platform/website-funnel-builder/add-pages.md)
+  * [演奏や作品を並べる（ポートフォリオ）](platform/website-funnel-builder/portfolio.md)
   * [サイトのトップページを変更する](platform/website-funnel-builder/set-homepage.md)
   * [新規ブロックの追加](platform/website-funnel-builder/add-blocks.md)
   * [ファイルマネージャーの使い方](platform/website-funnel-builder/file-manager.md)
