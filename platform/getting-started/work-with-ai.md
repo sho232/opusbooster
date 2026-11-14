@@ -73,12 +73,17 @@ AI は最初に、次の3つを聞いてきます。先に分かっていると�
 
 Claude には、決まった仕事のやり方を覚えさせておく「スキル」という仕組みがあります。一度入れておくと、OpusBooster の話になったときに自動で読み込まれ、毎回ファイルを渡す必要がありません。
 
-**Claude のアプリ（ブラウザ版・デスクトップ版）の場合**
-
-1. 下のスキルのファイル（ZIP）をダウンロードします。解凍はしません。
+スキルのファイル（ZIP）は、ここからダウンロードします。
 
 {% file src="../../.gitbook/assets/opusbooster-site-builder.zip" %}
 
+入れ方は、使っている Claude の種類で違います。
+
+<details>
+
+<summary>Claude のアプリ（ブラウザ版・デスクトップ版）に入れる</summary>
+
+1. ダウンロードした ZIP は、解凍せずにそのまま使います。
 2. Claude の設定（Settings）の「Capabilities」を開き、「Code execution and file creation」（画面によっては「Create and edit files」）がオンになっているのを確かめます。
 3. 「Customize」→「Skills」を開きます。
 4. 「＋」を押し、「Create skill」→「Upload a skill」を選んで、ダウンロードした ZIP を選びます。
@@ -86,11 +91,17 @@ Claude には、決まった仕事のやり方を覚えさせておく「スキ�
 
 スキルは、無料プランを含むどのプランでも使えます。会社や団体の契約で使っている場合は、管理者の設定でスキルの追加が止められていることがあります。画面の項目の名前は、Claude の更新で変わることがあります。見当たらないときは、[Claude の公式ヘルプ](https://support.claude.com/ja/articles/12512180)を確かめてください。
 
-**Claude Code の場合**
+</details>
 
-1. 上の ZIP をダウンロードして、解凍します。「opusbooster-site-builder」というフォルダができます。
+<details>
+
+<summary>Claude Code に入れる</summary>
+
+1. ダウンロードした ZIP を解凍します。「opusbooster-site-builder」というフォルダができます。
 2. そのフォルダを、ホームフォルダの中の `.claude/skills/` に入れます（`~/.claude/skills/opusbooster-site-builder/SKILL.md` という並びになります）。
 3. Claude Code で `/skills` と入力して、一覧に出ていれば完了です。再起動は要りません。
+
+</details>
 
 ## 最初の頼み方
 
