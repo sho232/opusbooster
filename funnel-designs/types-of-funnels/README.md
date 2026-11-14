@@ -20,6 +20,7 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 * **オンボーディング** – クイズを使って新しいユーザーを製品・サービスに導くファネル
 * **アポイントメント予約** – 面談や相談の予約を受け付けるファネル
 * **オプトイン** – メールリスト登録を目的としたファネル
+* **アスクキャンペーンファネル** – 質問を1つだけ聞き、回答を次の講座や商品づくりに使うファネル
 * **オンラインコースファネル** – オンラインコースの販売・受講導線を作るファネル
 * **メンバーシップファネル** – 会員制コンテンツへの入会を促すファネル
 * **サミットファネル** – オンラインイベント（サミット）の集客用ファネル
@@ -54,6 +55,10 @@ OpusBoosterには、目的に合わせてすぐに使える複数のファネル
 
 {% content-ref url="opt-in.md" %}
 [opt-in.md](opt-in.md)
+{% endcontent-ref %}
+
+{% content-ref url="ask-campaign-funnel.md" %}
+[ask-campaign-funnel.md](ask-campaign-funnel.md)
 {% endcontent-ref %}
 
 {% content-ref url="online-course-funnel.md" %}
