@@ -233,6 +233,9 @@
 
 * [ファネルの種類](funnel-designs/types-of-funnels/README.md)
   * [ファネルの種類一覧（バリューラダー別ガイド）](funnel-designs/types-of-funnels/value-ladder-guide.md)
+  * [音楽家・教室のための使用例](funnel-designs/types-of-funnels/use-cases-for-musicians.md)
+  * [型別・登録後と購入後の自動メール](funnel-designs/types-of-funnels/follow-up-emails.md)
+  * [ファネルを案内する前のチェックリスト](funnel-designs/types-of-funnels/pre-launch-checklist.md)
   * [リードジェネレーション](funnel-designs/types-of-funnels/lead-generation.md)
   * [ウェビナー](funnel-designs/types-of-funnels/webinar.md)
   * [ヒーロー](funnel-designs/types-of-funnels/hero.md)
