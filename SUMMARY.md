@@ -11,6 +11,7 @@
   * [プロジェクトを切り替える](platform/getting-started/switch-projects.md)
   * [スタッフや外注さんに入ってもらう（管理者の追加）](platform/getting-started/add-admins.md)
   * [ビルダーでページを編集する方法](platform/getting-started/edit-pages-in-builder.md)
+  * [自己紹介ページから始めて、サイトを育てる](platform/getting-started/grow-from-first-page.md)
   * [フッター - 使い方と編集方法](platform/getting-started/footer.md)
   * [カスタムドメインの接続](platform/getting-started/custom-domain.md)
     * [ドメインがどこで管理されているか調べる](platform/getting-started/dns-records/where-is-my-domain.md)
