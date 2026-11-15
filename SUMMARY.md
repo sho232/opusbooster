@@ -13,7 +13,7 @@
   * [ビルダーでページを編集する方法](platform/getting-started/edit-pages-in-builder.md)
   * [自己紹介ページから始めて、サイトを育てる](platform/getting-started/grow-from-first-page.md)
   * [AI に操作を手伝ってもらう](platform/getting-started/work-with-ai.md)
-  * [ファネルハブの次に足すもの](platform/getting-started/after-funnel-hub.md)
+  * [サイトができたあとに、次に足すもの](platform/getting-started/after-funnel-hub.md)
   * [フッター - 使い方と編集方法](platform/getting-started/footer.md)
   * [カスタムドメインの接続](platform/getting-started/custom-domain.md)
     * [ドメインがどこで管理されているか調べる](platform/getting-started/dns-records/where-is-my-domain.md)
