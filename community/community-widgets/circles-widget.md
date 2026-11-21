@@ -22,8 +22,8 @@ Circles は **個々の Circle のグループ** として機能し、コミュ�
 
 詳細を知るには：
 
-* [Circles ウィジェットの編集](https://buildersupport.gitbook.io/help-docs/ja/skuru/skurutosutairingu#circle-categories)
-* [カテゴリの作成と管理](https://buildersupport.gitbook.io/help-docs/ja/skuru/skurutosutairingu#circle-categories)
+* [Circles ウィジェットの編集](../circles/settings-and-styling.md)
+* [カテゴリの作成と管理](../circles/settings-and-styling.md)
 
 ---
 
