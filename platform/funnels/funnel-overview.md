@@ -37,7 +37,7 @@
 
 ※ファネルのステップを移動すると、番号も変わります。たとえば、下の画像では、ステップ 1 をステップ 2 の位置に移動しています。移動すると番号が変わるため、番号の順序は維持されます。
 
-![](https://buildersupport.gitbook.io/~gitbook/image?url=https%3A%2F%2F1167179989-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FniWcw23SMpGuUNsyHmk4%252Fuploads%252Fvpj5nK2b15RMey4sh0H6%252FMOve%2520funnel%2520steps.png%3Falt%3Dmedia%26token%3D0d70a232-199b-41e7-bc1e-3ac7e652f98a\&width=768\&dpr=4\&quality=100\&sign=6b0bfe39\&sv=1)
+![](../../.gitbook/assets/funnel-overview-move-steps-01.png)
 
 ### ファネルステップの追加 <a href="#add-new-funnel-step" id="add-new-funnel-step"></a>
 
