@@ -104,9 +104,9 @@ layout:
 
 個々のユーザー/メンバーにメールまたはSMSを送信する方法については、以下をクリックしてください。
 
-[個別メール送信](https://buildersupport.gitbook.io/help-docs/ja/purattofmu/messjingutowkufur/mru)
+[個別メール送信](../../platform/email-and-automation/individual-emails.md)
 
-[SMS＆WhatsApp](https://buildersupport.gitbook.io/help-docs/ja/purattofmu/messjingutowkufur/sms-whatsapp#individual-sms)
+[SMS＆WhatsApp](../../platform/email-and-automation/sms-whatsapp.md)
 
 ---
 

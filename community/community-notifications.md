@@ -79,7 +79,7 @@ icon: bell-ring
 * ユーザーがプラットフォームから離れていても、アクティブな関与の維持に役立ちます。
 * 受信者はメールから関連する投稿・コメント・メンションに直接移動でき、シームレスにアクセスできます。
 
-[コミュニティメンション](https://buildersupport.gitbook.io/help-docs/ja/purattofmu/shisutemumru/shisutemumrutenpurto/komyunitimenshon)
+[コミュニティメンション](../platform/system-emails/system-email-templates/community-mention.md)
 
 ### メンションの使い方
 
