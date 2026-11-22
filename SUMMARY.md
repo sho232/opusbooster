@@ -139,6 +139,7 @@
   * [商品の作成](platform/online-shop/create-products.md)
   * [決済サービスとの接続](platform/online-shop/payment-services.md)
   * [毎月の支払いを、カードで受け取る（Stripe の準備）](platform/online-shop/recurring-payments-stripe.md)
+  * [売上を会計ソフト freee に取り込む（PayPal・Stripe）](platform/online-shop/freee-sales-sync.md)
   * [商品の一括入力](platform/online-shop/bulk-product-import.md)
   * [配送方法](platform/online-shop/shipping-methods.md)
   * [税金の設定](platform/online-shop/tax-settings.md)
