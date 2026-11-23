@@ -162,7 +162,7 @@
   * [スケジュール予約の設定](platform/appointments/schedule-booking.md)
   * [サービス機能を使用した予約の設定](platform/appointments/service-based-booking.md)
   * [予約時の決済・複数サービス・カテゴリー](platform/appointments/booking-payments-and-services.md)
-* [MetaコンバージョンAPI](platform/meta-conversion-api.md)
+* [MetaピクセルとコンバージョンAPI](platform/meta-conversion-api.md)
 
 ## コミュニティ <a href="#community" id="community"></a>
 
