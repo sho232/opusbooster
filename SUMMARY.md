@@ -2,6 +2,7 @@
 
 * [👏 ようこそ](README.md)
 * [🗺️ 目的別サクセスマップ](success-map.md)
+* [🎸 アーティストのサクセスマップ](success-map-artists.md)
 * [✅ 最初の7日間チェックリスト](first-7-days.md)
 
 ## プラットフォーム <a href="#platform" id="platform"></a>
