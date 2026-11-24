@@ -11,6 +11,7 @@ description: やりたいことから逆算してOpusBoosterの使い方を探�
 * **これからビジネスを始める** → [共通セットアップ](success-map.md#setup)を済ませてから、[発信の仕組み](success-map.md#content)か[メールリスト集め](success-map.md#leads)へ
 * **売る商品・サービスはある** → [共通セットアップ](success-map.md#setup) → [商品を売る導線](success-map.md#sales)へ
 * **商品もメールリストもある** → [ファネルでの販売](success-map.md#sales)や[高単価商品の個別相談](success-map.md#sales)、[会員サイト化](success-map.md#membership)で次の階段へ
+* **SNS だけで活動しているアーティスト** → [アーティストのサクセスマップ](success-map-artists.md)で、進める順番を確認
 
 ## 共通セットアップ（すべての人の最初の一歩） <a href="#setup" id="setup"></a>
 
